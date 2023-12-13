@@ -1,0 +1,151 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>가게운영자 회원가입 화면</title>
+<script type="text/javascript">
+	// 필수 입력정보인 아이디, 비밀번호가 입력되었는지 확인하는 함수
+	function checkValue() {
+		if (!document.userInfo.SID.value) {
+			alert("아이디를 입력하세요.");
+			return false;
+		}
+
+		if (!document.userInfo.SADNAME.value) {
+			alert("가게이름을 입력하세요.");
+			return false;
+		}
+
+		if (!document.userInfo.CLASSTIFICATION.value) {
+			alert("분류를 선택하시오.");
+			return false;
+		}
+
+		if (!document.userInfo.OPENTIME.value) {
+			alert("오픈시간을 입력하세요.");
+			return false;
+		}
+		if (!document.userInfo.CLOSETIME.value) {
+			alert("마감시간을 입력하세요.");
+			return false;
+		}
+
+		if (!document.userInfo.PW.value) {
+			alert("비밀번호를 입력하세요.");
+			return false;
+		}
+
+		if (!document.userInfo.SNAME.value) {
+			alert("이름을 입력하세요.");
+			return false;
+		}
+
+		if (!document.userInfo.ADD.value) {
+			alert("주소를 입력하세요.");
+			return false;
+		}
+		if (!document.userInfo.CP.value) {
+			alert("연락처를 입력하세요.");
+			return false;
+		}
+
+	}
+
+	function checkDuplication() {
+		// 파라미터로  id를 전달하여 아이디 중복 검사
+		document.location.href = "CheckIdDuplication.jsp?CID="
+				+ document.userInfo.SID.value + "&usertype=1";
+	}
+
+	// 취소 버튼 클릭시 로그인 화면으로 이동
+	function goLoginForm() {
+		location.href = "DeliveryStart.html";
+	}
+</script>
+</head>
+<body>
+	<table style="width: 100%;">
+		<tr>
+			<td bgcolor='#CCEEFF'><h1 align=center>요기따</h1></td>
+		</tr>
+	</table>
+	<hr>
+	<br>
+	<!-- 입력한 값을 전송하기 위해 form 태그를 사용한다 -->
+	<!-- 값(파라미터) 전송은 POST 방식, 전송할 페이지는 JoinPro.jsp -->
+	<form method="post" action="AdminJoin.jsp" name="userInfo"
+		onsubmit="return checkValue()">
+		<table style="align: center; border: 1; cellpadding: 10;">
+			<tr>
+				<td id="title" align=center colspan=2><h2>가게운영자 회원 가입</h2></td>
+			</tr>
+			<tr>
+				<td id="title">아이디</td>
+				<td><input type="text" name="SID" maxlength="30"> <input
+					type="button" value="중복확인" onclick="checkDuplication()"></td>
+			</tr>
+			<tr>
+				<td id="title">가게이름</td>
+				<td><input type="text" name="SNAME" maxlength="30"></td>
+
+			</tr>
+			<tr>
+				<td id="title">가게분류</td>
+				<td><select name="CLASSTIFICATION">
+						<option value="">---가게분류선택---</option>
+						<option value="Kfood">한식</option>
+						<option value="Flourfood">분식</option>
+						<option value="Cafe">카페디저트</option>
+						<option value="Chicken">치킨</option>
+						<option value="Pizza">피자</option>
+						<option value="Asian">아시안,양식</option>
+						<option value="Cfood">중국집</option>
+						<option value="Jokbal">족발,보쌈</option>
+						<option value="Steamed">찜,탕</option>
+						<option value="Lunchbox">도시락</option>
+						<option value="Fastfood">패스트푸드</option>
+				</select></td>
+			</tr>
+			<tr>
+				<td id="title">가게오픈시간</td>
+				<td><input type="text" name="OPENTIME" maxlength="30"
+					placeholder="09:20:00"></td>
+
+			</tr>
+			<tr>
+				<td id="title">가게마감시간</td>
+				<td><input type="text" name="CLOSETIME" maxlength="30"
+					placeholder="23:00:00"></td>
+
+			</tr>
+			<tr>
+				<td id="title">비밀번호</td>
+				<td><input type="password" name="PW" maxlength="30"></td>
+			</tr>
+
+			<tr>
+				<td id="title">이름</td>
+				<td><input type="text" name="SADNAME" maxlength="10"></td>
+			</tr>
+
+			<tr>
+				<td id="title">주소</td>
+				<td><input type="text" name="ADD" maxlength="20"></td>
+			</tr>
+
+			<tr>
+				<td id="title">연락처</td>
+				<td><input type="text" name="CP" maxlength="20"
+					placeholder="010-0000-0000"></td>
+			</tr>
+			<tr>
+				<td id="title" align=center colspan=2><input type="submit"
+					value="가입"> &nbsp; &nbsp; &nbsp; <input type="button"
+					value="취소"></td>
+			</tr>
+		</table>
+		<div id='result'></div>
+	</form>
+</body>
+</html>
+
+

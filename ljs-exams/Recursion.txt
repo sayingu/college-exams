@@ -1,0 +1,21 @@
+public class Recursion {
+
+    public static void main (String[] args) {
+        System.out.println("gcd(36, 20) = " + gcd(36, 20));
+        System.out.println("gcd(34, 0) = " + gcd(34, 0));
+        System.out.println("gcd(3346, 468) = " + gcd(3346, 468));
+
+]        System.out.println("f(2) = " + f(2));
+        System.out.println("f(3) = " + f(3));
+        System.out.println("f(10) = " + f(10));
+
+        printBackward("Java Fun!");
+        System.out.println("before printString");
+        printString("Java Fun!");
+        System.out.println("after printString");
+        String reversed = reverseString("Java Fun!");
+        System.out.println(reversed);
+    }
+
+    // Your code goes here
+}

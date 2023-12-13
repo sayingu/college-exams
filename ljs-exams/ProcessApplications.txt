@@ -1,0 +1,82 @@
+// You will have to complete this file by replacing FILL_IT_IN with
+// appropriate Java code (most likely multiple lines) and by adding
+// additional code where needed.
+
+import java.io.*;
+
+public class ProcessApplications {
+
+    public static String readALine (BufferedReader input) {
+        String line = "";
+        try {
+            line = input.readLine();
+        }
+        catch (IOException e) {
+            System.out.println("Oops");
+        }
+        return line;
+    }
+
+    // Rather than catching IOException's in main, main can pass it on
+    // by 'throw'ing it, which is what I chose to do here.
+    //
+    public static void main (String[] args) throws IOException {
+
+        String inputFile = "./a0.txt";
+        
+        // Pattern to be used to "open an input file"
+        BufferedReader input = new BufferedReader(new FileReader(inputFile));
+
+        // I am assuming that there is at least one line in the input file.
+        int numApplications = Integer.parseInt(readALine(input));
+        Application[] applications = new Application[numApplications];
+
+        String name = readALine(input); // Read the name of first application
+        String addr;
+        FILL_IT_IN
+
+        while (name != null) {   // Reached the end of the input file?
+        FILL_IT_IN
+        }
+
+        input.close();  // Close it when done reading from it.
+        
+        // Now that we have all the application objects in an array, we can
+        // use those objects to do whatever we want to do.
+
+        // Find scholarship recipients. An applicant is considered a scholarship
+        // recipient if:
+        //   (1) his or her high school GPA is higher than 3.8,
+        //   (2) his or her intented major is one of the following: Philosophy,
+        //       History, or Sociology, 
+        //   (3) s/he is from Montana or Idaho, and
+        //   (4) s/he is applying for scholarship.
+        // Find and print all the scholarship recipients.
+        FILL_IT_IN
+        
+        // Print the average GPA of all the applicants from California:
+        FILL_IT_IN
+
+        // Find the applicant whose GPA is the highest among the applicants
+        // from the state of Washington and print the name and the GPA of
+        // that applicant.
+        FILL_IT_IN
+
+        // Find and print the number of applications from each state
+        // in this format (alphabetical order):
+        //
+        //   State, No of Applications
+        //   Arizona, 5
+        //   California, 20
+        //   Oregon, 6
+        //   Washington, 7
+        //
+        // You may assume that the only valid state names are the 50
+        // states in the USA.  That is, you will only see at most
+        // those names in your input file.  In your output, do NOT
+        // include the state names from which there is no application.
+        FILL_IT_IN
+
+    }
+
+}

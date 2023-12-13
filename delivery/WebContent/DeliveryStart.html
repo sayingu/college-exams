@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<script>
+	function onclickJoin() {
+
+		var temp = document.getElementsByName("Usertype");
+		var usertype;
+
+		// 라디오 버튼 중에서 check된 것의 value를 추출하여 usertype에 저장
+		for (i = 0; i < temp.length; i++) {
+			if (temp[i].checked) {
+				usertype = temp[i].value;
+			}
+		}
+
+		if (usertype == "customer")
+			location.href = "CustomerJoin.html";
+		else
+			location.href = "AdminJoin.html";
+	}
+
+	function onclickLogin() {
+
+		var temp = document.getElementsByName("Usertype");
+		var usertype;
+
+		// 라디오 버튼 중에서 check된 것의 value를 추출하여 usertype에 저장
+		for (i = 0; i < temp.length; i++) {
+			if (temp[i].checked) {
+				usertype = temp[i].value;
+			}
+		}
+
+		if (usertype == "customer") {
+
+			location.href = "CLogin.html";
+		} else {
+
+			location.href = "ALogin.html";
+		}
+	}
+</script>
+<title>Delivery Start</title>
+</head>
+<body>
+	<table style="width: 100%">
+		<tr>
+			<td bgcolor='#CCEEFF'><h1 align=center>요기따</h1></td>
+		</tr>
+	</table>
+	<hr>
+	<br>
+	<form>
+		<table style="align: center; border: 1;">
+			<tr>
+				<td id="title" align=center colspan=2><h2>로그인 및 회원가입</h2></td>
+			</tr>
+
+			<tr>
+				<td id="choose" align=center colspan=2><input type=radio
+					name="Usertype" value="customer" checked><label for="user1">고객</label>&nbsp;&nbsp;
+					<input type=radio name="Usertype" value="owner"><label
+					for="user2">점주</label>&nbsp;&nbsp;</td>
+			</tr>
+			<tr>
+				<td id="loginjoin" align=center colspan=2>
+					<button type="button" onclick="onclickLogin()">로그인</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<button type="button" onclick="onclickJoin()">회원가입</button>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

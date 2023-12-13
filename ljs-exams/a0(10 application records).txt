@@ -1,0 +1,101 @@
+10
+Cain J. Eggett
+1551 Kennedy
+Springville
+Montana
+48084
+830 066 8871
+100
+History
+3.98
+Applying4Scholarship
+Seth R. Myer
+050 West 5520 North
+Runt
+Idaho
+50320
+600 147 2584
+101
+Philosophy
+3.99
+Applying4Scholarship
+Kim K. Casad
+051 West 2368 East
+Seattle
+Alabama
+33475
+442 477 2874
+102
+Art
+2.68
+Applying4Scholarship
+Conn C. Goeree
+212 South 7533 East
+Sacramento
+Illinois
+70638
+717 568 5618
+103
+Management
+1.05
+NotApplying4Scholarship
+Hassan Y. Lepereu
+0282 Herbert
+San Diego
+Connecticut
+54625
+602 140 2058
+104
+Undeclared
+0.87
+Applying4Scholarship
+Vitale X. Hanscom
+747 West 8760 West
+Las Vegas
+Idaho
+36747
+460 743 6817
+105
+Sociology
+3.85
+Applying4Scholarship
+Sayed Y. Casad
+484 East 5260 South
+Victoria
+Massachusetts
+35817
+364 123 4364
+106
+Accounting
+1.03
+NotApplying4Scholarship
+Kelan K. Thom
+2073 E St.
+Bakersville
+Kentucky
+67562
+310 771 3037
+107
+Accounting
+3.49
+Applying4Scholarship
+Urian X. Edwards
+0205 Young Oak
+Andover
+Wisconsin
+20243
+876 742 3074
+108
+Accounting
+3.55
+Applying4Scholarship
+Carrie K. Williams
+374 North 6205 East
+Wonderful
+Washington
+77354
+154 723 2807
+109
+Sociology
+0.37
+Applying4Scholarship

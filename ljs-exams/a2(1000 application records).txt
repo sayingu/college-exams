@@ -1,0 +1,10001 @@
+1000
+Cain J. Eggett
+1551 Kennedy
+Springville
+Montana
+48084
+830 066 8871
+100
+History
+3.98
+Applying4Scholarship
+Seth R. Myer
+050 West 5520 North
+Runt
+Idaho
+50320
+600 147 2584
+101
+Philosophy
+3.99
+Applying4Scholarship
+Joe I. Eby
+152 East 7448 North
+Bakerfield
+Maine
+65828
+705 140 2751
+102
+Art
+0.87
+NotApplying4Scholarship
+Ashlin Y. Miller
+051 North 8780 South
+Moscow
+Arizona
+60756
+781 476 7437
+103
+Social Work
+2.63
+NotApplying4Scholarship
+Mani H. Krauss
+155 West 4204 East
+Andover
+Alaska
+84277
+808 007 8880
+104
+Computer Engineering
+4.0
+Applying4Scholarship
+Renzo A. Arndt
+700 East 0454 West
+San Diego
+New York
+78214
+134 144 6638
+105
+Art
+3.07
+NotApplying4Scholarship
+Quilliam W. Casad
+473 West 6681 South
+Sherman
+Mississippi
+08362
+413 271 3323
+106
+Pharmacy
+3.82
+NotApplying4Scholarship
+Kim B. Bradley
+6251 Wilson Ave.
+Dayton
+Kansas
+64401
+371 604 4811
+107
+Special Education
+0.77
+NotApplying4Scholarship
+Semyon Q. Kim
+565 West 4853 West
+Philladelphia
+Missouri
+05837
+845 308 1483
+108
+Music
+3.91
+NotApplying4Scholarship
+Hunter L. Nelson
+774 North 8534 East
+San Diego
+North Carolina
+38735
+455 771 1055
+109
+Management
+4.0
+Applying4Scholarship
+Adir U. Bilger
+6305 Wilson Ave.
+Denver
+Oklahoma
+22618
+840 438 5851
+110
+Accounting
+0.26
+Applying4Scholarship
+Pearce N. Adolphson
+307 West 4147 West
+Seattle
+Montana
+24477
+117 564 2370
+111
+Sociology
+3.92
+Applying4Scholarship
+Angelo T. Kind
+108 East 4214 West
+Jolly
+Michigan
+80402
+753 336 3317
+112
+International Studies
+3.19
+NotApplying4Scholarship
+Brady C. Ashmiller
+031 South 2356 North
+East Haven
+Kentucky
+54122
+086 181 8558
+113
+Architecture
+1.96
+Applying4Scholarship
+Hakim U. Adolphson
+570 West 3683 North
+Portland
+Texas
+36226
+058 105 5436
+114
+Pre-Dental
+1.03
+Applying4Scholarship
+Robert B. Burdekin
+186 West 5057 East
+Philladelphia
+Mississippi
+62818
+833 736 5557
+115
+English
+2.33
+NotApplying4Scholarship
+Lamont T. Candaele
+5212 Pensylvania
+Las Vegas
+Vermont
+22362
+017 226 7881
+116
+Math
+1.07
+NotApplying4Scholarship
+Lucian V. Higdon
+014 North 2411 South
+Philladelphia
+Oregon
+62485
+541 160 6725
+117
+Social Work
+1.13
+Applying4Scholarship
+Fineas F. Adamson
+581 South 5800 North
+Newtown
+Arkansas
+83754
+884 213 4245
+118
+Asian Studies
+0.29
+Applying4Scholarship
+Regan F. Gross
+507 North 1156 East
+Jackson
+Oklahoma
+35835
+621 877 6414
+119
+Computer Engineering
+2.16
+Applying4Scholarship
+Pascal S. Guthrie
+1574 Malus St.
+Florence
+Wyoming
+34738
+746 300 6407
+120
+Bioengineering
+3.64
+NotApplying4Scholarship
+Khalil C. Camp
+535 South 7651 North
+Andover
+Maine
+74643
+565 201 7464
+121
+Philosophy
+2.82
+Applying4Scholarship
+Lamech O. Brown
+700 South 7875 South
+Richfield
+Vermont
+83447
+285 617 5376
+122
+Pre-Dental
+1.42
+NotApplying4Scholarship
+Hanan U. Farell
+311 North 2346 North
+Dayton
+North Dakota
+56665
+556 103 2472
+123
+Civil Engineering
+3.70
+NotApplying4Scholarship
+Pari Y. Gilbert
+081 South 8012 South
+Stafford
+Florida
+03074
+180 383 7122
+124
+Mining Engineering
+0.90
+Applying4Scholarship
+Yannis G. Camp
+571 East 6541 East
+Springville
+West Virginia
+67335
+626 141 6534
+125
+Computer Engineering
+0.04
+NotApplying4Scholarship
+Dev A. Hahn
+4867 Main St.
+Riverside
+Michigan
+65413
+364 480 2806
+126
+Mining Engineering
+1.54
+NotApplying4Scholarship
+Cain H. Sampson
+375 East 6367 North
+Stockton
+Kentucky
+13126
+330 862 5114
+127
+Biochemistry
+2.18
+Applying4Scholarship
+Innes L. Cody
+333 South 4400 West
+Denver
+Missouri
+12245
+131 715 8026
+128
+Geography
+2.89
+NotApplying4Scholarship
+Khalil H. Lim
+5636 Kerry
+Dayton
+Connecticut
+64500
+084 851 3806
+129
+Theater
+3.99
+Applying4Scholarship
+Ronan A. Zamin
+257 North 4245 East
+Southbury
+Georgia
+44458
+314 460 2380
+130
+Behavior Science
+0.63
+NotApplying4Scholarship
+Vidal Y. Ashmiller
+712 East 8782 South
+Stuckyville
+New York
+15462
+223 313 7103
+131
+Sociology
+2.61
+Applying4Scholarship
+Zaki X. Lindstrom
+858 South 6878 East
+Atlanta
+Rhode Island
+14718
+385 712 5268
+132
+Accounting
+3.88
+NotApplying4Scholarship
+Xavier K. Black
+781 South 1058 North
+Wayne
+Tennessee
+01408
+056 704 2514
+133
+Math
+0.49
+Applying4Scholarship
+Wade V. Amacost
+045 North 7626 North
+Andover
+Nebraska
+01727
+558 778 2654
+134
+Sociology
+2.42
+NotApplying4Scholarship
+Iago Q. Bowman
+4514 De Vinci Ave.
+Bakersville
+Iowa
+77358
+540 881 3367
+135
+Computer Science
+1.43
+NotApplying4Scholarship
+Paine Y. Kind
+032 North 0021 South
+Maryville
+New Hampshire
+51406
+704 125 0777
+136
+Art
+0.13
+NotApplying4Scholarship
+Ezra J. Mansfield
+7751 Buffon
+Victoria
+Virginia
+46442
+826 616 7011
+137
+English
+3.78
+NotApplying4Scholarship
+Tashi N. Williams
+451 West 7148 North
+Portland
+Colorado
+02254
+407 312 6341
+138
+Chemical Engineering
+0.30
+NotApplying4Scholarship
+Diane O. Elliott
+310 East 0371 West
+Las Vegas
+Georgia
+37715
+356 847 7353
+139
+Chemistry
+3.64
+NotApplying4Scholarship
+Jaron T. Dimagio
+770 West 6262 South
+Riverside
+Maine
+35645
+281 678 6022
+140
+Pharmacy
+3.65
+Applying4Scholarship
+Gary U. Appelbaum
+633 East 6071 East
+Moab
+Wyoming
+43757
+234 403 7805
+141
+Music
+1.13
+Applying4Scholarship
+Ann Y. Thompson
+785 South 3177 South
+Claremont
+West Virginia
+65433
+261 231 1536
+142
+Fine Arts
+3.63
+NotApplying4Scholarship
+Barak X. Riloff
+537 West 7880 East
+Glendale
+Nebraska
+88228
+343 531 7718
+143
+Biochemistry
+2.13
+NotApplying4Scholarship
+Lamech Q. Milton
+021 North 4360 East
+Atlanta
+Michigan
+41460
+623 252 4872
+144
+Business
+0.91
+Applying4Scholarship
+Rafferty D. Miller
+270 East 1257 West
+Maryville
+Rhode Island
+43303
+765 055 7532
+145
+Law
+3.67
+NotApplying4Scholarship
+Fabrice R. Bradley
+060 South 4622 North
+Las Vegas
+Kansas
+60251
+362 101 8804
+146
+Psychology
+0.86
+NotApplying4Scholarship
+Ciro Q. Miller
+852 North 0354 West
+Portland
+Iowa
+54363
+678 534 4687
+147
+Special Education
+0.54
+NotApplying4Scholarship
+Lars G. Woods
+381 East 6274 West
+East Haven
+Alabama
+14475
+342 754 4687
+148
+Biology
+3.21
+NotApplying4Scholarship
+Rafi Z. Clark
+820 South 7807 East
+Wonderful
+Massachusetts
+64760
+641 505 4258
+149
+Law
+3.53
+Applying4Scholarship
+Kinsey A. Helland
+617 South 3227 North
+Fresno
+Alabama
+67032
+148 600 3500
+150
+Social Work
+2.98
+NotApplying4Scholarship
+Rocco N. Williams
+626 West 5872 West
+Glendale
+Maryland
+72065
+416 255 6288
+151
+Education
+2.20
+NotApplying4Scholarship
+Varden B. Chase
+874 North 6536 North
+Dayton
+Kansas
+87323
+723 010 2137
+152
+Math
+2.10
+Applying4Scholarship
+Kieran N. Hahn
+023 West 5312 North
+Bakerfield
+Nebraska
+27621
+841 445 3404
+153
+Mechanical Engineering
+0.14
+NotApplying4Scholarship
+Dane V. Nelson
+664 West 5014 West
+Moscow
+Oklahoma
+12574
+835 444 8182
+154
+Art
+1.18
+Applying4Scholarship
+Rasheed Z. Gould
+367 North 7364 East
+Philladelphia
+Washington
+77331
+201 548 2861
+155
+Biochemistry
+0.14
+NotApplying4Scholarship
+Ali D. Griffiths
+356 East 8365 North
+Andover
+Indiana
+58556
+122 854 2214
+156
+Family and Consumer Studies
+0.99
+Applying4Scholarship
+Hannes V. Ehrig
+622 North 3430 South
+Fresno
+Wyoming
+35151
+747 861 0150
+157
+Sociology
+3.76
+NotApplying4Scholarship
+Scott A. Castro
+058 East 1373 South
+Vancouver
+Maryland
+23787
+017 340 5322
+158
+Computer Science
+1.21
+Applying4Scholarship
+Kareem U. Lim
+338 North 7244 South
+Victoria
+Wisconsin
+28708
+774 622 5624
+159
+Fine Arts
+3.92
+NotApplying4Scholarship
+Lann X. Kerry
+401 South 6215 East
+Chicago
+Oregon
+48862
+141 544 3886
+160
+Bioengineering
+0.24
+NotApplying4Scholarship
+Quinn O. Hess
+061 North 6811 South
+Portland
+Nebraska
+35367
+822 083 1061
+161
+Biochemistry
+2.29
+NotApplying4Scholarship
+Zed O. Clinton
+344 South 6265 South
+Pomona
+Connecticut
+22135
+375 306 7160
+162
+Marketing
+2.08
+NotApplying4Scholarship
+Eric Z. Chang
+3058 Cornell
+Fresno
+Ohio
+05146
+775 343 2226
+163
+Family and Consumer Studies
+2.79
+NotApplying4Scholarship
+Andrea R. Kim
+710 West 2632 North
+Atlanta
+New Mexico
+31434
+565 807 7301
+164
+Behavior Science
+0.49
+NotApplying4Scholarship
+Fane D. Farell
+6027 Broglie Blvd.
+Claremont
+North Carolina
+04438
+506 887 5533
+165
+Mining Engineering
+1.84
+NotApplying4Scholarship
+Ari O. Goodrich
+216 East 1384 West
+Bountiful
+Nebraska
+14868
+754 011 4776
+166
+Pre-Med
+3.66
+Applying4Scholarship
+Leif O. Adolphson
+545 South 5822 West
+Tacoma
+Arkansas
+18500
+377 158 3868
+167
+Music
+3.92
+Applying4Scholarship
+Ramiro L. Adams
+580 South 6060 East
+Richfield
+Kentucky
+21846
+040 475 5320
+168
+Ballet
+2.53
+Applying4Scholarship
+Bobby S. Zachary
+880 North 1888 East
+Riverside
+Rhode Island
+03676
+666 031 2804
+169
+Bioengineering
+0.25
+NotApplying4Scholarship
+Dante R. Fucaloro
+207 South 4647 North
+Wonderful
+Louisiana
+51627
+438 544 0368
+170
+Electrical Engineering
+1.10
+Applying4Scholarship
+Hyam O. Ascher
+1352 Buffon
+Riverside
+Maine
+33884
+004 748 0651
+171
+Music
+2.73
+Applying4Scholarship
+Cindy R. Camp
+325 East 6838 South
+Salt Lake
+Kansas
+18136
+011 706 2655
+172
+English
+3.46
+NotApplying4Scholarship
+Bakari L. Burdekin
+356 East 5267 North
+Baker
+Arizona
+05107
+031 663 5264
+173
+Computer Engineering
+0.91
+Applying4Scholarship
+Darby I. Espinosa
+713 South 8764 North
+Seattle
+New Hampshire
+82060
+148 435 1582
+174
+Aerospace Studies
+0.28
+Applying4Scholarship
+Hemi A. Trang
+027 West 4232 West
+Bakerfield
+Idaho
+46165
+266 640 7551
+175
+Computer Science
+1.72
+NotApplying4Scholarship
+Venn Z. Bowman
+105 East 5110 East
+Sherman
+Texas
+08343
+404 576 5010
+176
+Nursing
+1.60
+NotApplying4Scholarship
+Aneurin M. Biltz
+883 North 1414 West
+Garrison
+Minnesota
+31450
+610 577 3530
+177
+Geology
+2.53
+NotApplying4Scholarship
+Vidas V. Goss
+1238 Kerry
+Runt
+Wisconsin
+67745
+564 210 4602
+178
+International Studies
+2.82
+Applying4Scholarship
+Paine X. Kind
+575 South 6180 East
+Salt Lake
+Virginia
+15433
+823 840 2241
+179
+Communication
+2.68
+Applying4Scholarship
+Amon S. Biltz
+4885 Buffon
+Tacoma
+Hawaii
+60278
+550 726 0731
+180
+Theater
+3.87
+NotApplying4Scholarship
+Arley D. Biltz
+456 North 7611 West
+Bakersville
+Utah
+48414
+366 087 7765
+181
+Aerospace Studies
+1.03
+Applying4Scholarship
+Zaki U. Heerwald
+048 West 5823 South
+Stockton
+Arizona
+87714
+654 036 2175
+182
+Pharmacy
+0.26
+Applying4Scholarship
+Royce M. Monroe
+870 South 5325 East
+St. Paul
+Texas
+66238
+860 258 8336
+183
+Biochemistry
+3.75
+Applying4Scholarship
+Peter M. Trang
+840 East 1762 West
+Andover
+New Jersey
+17063
+506 168 5262
+184
+Fine Arts
+1.22
+Applying4Scholarship
+Dante W. Myer
+014 East 4061 West
+Wayne
+Maryland
+83060
+077 405 7842
+185
+Chemistry
+3.83
+Applying4Scholarship
+Lorenzo I. Jackson
+856 South 8177 East
+Pomona
+Missouri
+06153
+161 860 3703
+186
+Accounting
+3.36
+NotApplying4Scholarship
+Milan Y. Amacost
+452 West 5651 South
+Seattle
+Missouri
+31773
+888 616 0502
+187
+Ballet
+0.02
+NotApplying4Scholarship
+Delmar X. Appelbaum
+886 East 1538 East
+Fresno
+California
+31722
+164 500 1023
+188
+Education
+3.73
+Applying4Scholarship
+Sebastian A. Haskell
+233 North 2544 West
+St. Paul
+Oregon
+00450
+828 667 1477
+189
+History
+1.10
+Applying4Scholarship
+Steven T. Petersen
+542 North 3108 North
+Stockton
+South Dakota
+48661
+266 833 5055
+190
+Aerospace Studies
+2.24
+NotApplying4Scholarship
+Lafayette X. Bowman
+073 South 7745 East
+Sacramento
+Oregon
+65168
+667 513 4506
+191
+Art
+4.0
+NotApplying4Scholarship
+Majorie V. Keil
+678 South 0802 North
+Dayton
+Wyoming
+24610
+010 855 2255
+192
+Physics
+2.54
+NotApplying4Scholarship
+Anwar I. Eby
+352 South 0116 West
+Monroe
+Arkansas
+62452
+184 466 3863
+193
+Linguistics
+1.76
+Applying4Scholarship
+Asher B. Hahn
+882 East 2617 South
+Runt
+Rhode Island
+74780
+123 678 5440
+194
+Business
+2.87
+Applying4Scholarship
+Kadir F. Eby
+6363 Interesting One
+Denver
+North Dakota
+21400
+441 686 3787
+195
+Math
+0.46
+Applying4Scholarship
+Cailean K. Clinton
+8568 Buffon
+Monroe
+Delaware
+08547
+765 183 6058
+196
+Aerospace Studies
+3.64
+NotApplying4Scholarship
+Matai J. Castro
+7552 Monge Dr.
+San Diego
+Montana
+31625
+370 102 8327
+197
+History
+3.90
+Applying4Scholarship
+Vere T. Ascher
+241 North 5013 South
+Los Angeles
+Maine
+31880
+140 668 5587
+198
+Asian Studies
+1.98
+Applying4Scholarship
+Angelo N. Brown
+5765 Pensylvania
+Sacramento
+Texas
+30050
+505 870 1706
+199
+Marketing
+0.17
+NotApplying4Scholarship
+Tehan O. Faggen
+2017 Hubbard
+Eugene
+New Mexico
+32435
+817 641 8283
+200
+Music
+0.86
+NotApplying4Scholarship
+Cindy M. Douville
+820 North 5674 South
+Seoul
+Colorado
+64842
+343 113 5618
+201
+Management
+0.53
+NotApplying4Scholarship
+Swayne W. Bradley
+810 West 7101 North
+Bakerfield
+Texas
+87233
+427 622 5031
+202
+Fine Arts
+2.01
+Applying4Scholarship
+Anwar E. Kim
+063 East 4776 West
+Glendale
+Utah
+07455
+018 472 2584
+203
+Social Work
+1.22
+Applying4Scholarship
+Timothy K. Chi
+707 East 1813 West
+Salt Lake
+Idaho
+76088
+534 818 2837
+204
+Art
+3.46
+Applying4Scholarship
+Ansari L. Candaele
+628 East 0811 South
+Newtown
+Texas
+83637
+807 672 1661
+205
+Psychology
+0.97
+NotApplying4Scholarship
+Emyr G. Milton
+2138 Good One
+Boise
+Maine
+56225
+104 414 1463
+206
+Art
+4.0
+Applying4Scholarship
+Peter N. Aksoy
+167 North 1056 South
+Bakersville
+West Virginia
+10837
+661 778 3275
+207
+Biochemistry
+1.69
+Applying4Scholarship
+Mark J. Haskell
+324 South 0817 South
+Stamford
+New Mexico
+17536
+178 240 6618
+208
+Geography
+3.35
+NotApplying4Scholarship
+Adar W. Lim
+804 East 5456 West
+Denver
+Pennsylvania
+31158
+355 455 5048
+209
+Architecture
+2.86
+Applying4Scholarship
+Walter F. Blomberg
+076 South 3767 West
+Sacramento
+Vermont
+37303
+401 637 6417
+210
+Architecture
+3.92
+NotApplying4Scholarship
+Blaise L. Hess
+631 West 3445 South
+Seoul
+Michigan
+60047
+780 835 2384
+211
+Biochemistry
+4.0
+Applying4Scholarship
+Phineas T. Eby
+360 East 6226 West
+Victoria
+New York
+07728
+205 750 7401
+212
+Psychology
+1.74
+NotApplying4Scholarship
+Lal B. Greth
+5121 Buffon
+Stamford
+Nebraska
+03744
+075 584 2617
+213
+Art
+2.37
+Applying4Scholarship
+Theon I. Camp
+555 South 0038 West
+Wayne
+Kansas
+81456
+246 724 2833
+214
+Physics
+3.77
+Applying4Scholarship
+Sage P. Kennedy
+832 East 3700 South
+Maryville
+California
+57356
+204 428 8138
+215
+Law
+1.71
+Applying4Scholarship
+Aneurin O. Goeree
+653 North 3821 East
+Sandy
+Maine
+63802
+110 363 0131
+216
+Pharmacy
+3.62
+NotApplying4Scholarship
+Hunter F. Chang
+346 East 4625 North
+Monroe
+Texas
+27533
+744 682 6268
+217
+Theater
+0.94
+Applying4Scholarship
+Wren N. Bradley
+042 West 4007 West
+Tacoma
+Alaska
+34872
+716 534 2772
+218
+Linguistics
+3.84
+Applying4Scholarship
+Damon G. Kim
+775 North 5217 West
+Bakerfield
+Wisconsin
+72652
+845 726 1571
+219
+Social Work
+0.32
+NotApplying4Scholarship
+Ryder K. Huang
+2430 Stanford
+Victoria
+Massachusetts
+15578
+034 520 6166
+220
+Social Work
+0.06
+Applying4Scholarship
+Levi O. Miller
+288 South 5207 North
+Vancouver
+Missouri
+88804
+540 836 3238
+221
+Theater
+3.65
+Applying4Scholarship
+Kathleen U. Mayfield
+3171 Broglie Blvd.
+Bountiful
+New Mexico
+00361
+677 501 5235
+222
+Ballet
+3.90
+Applying4Scholarship
+Back M. Adamson
+150 East 7426 East
+Atlanta
+Oregon
+68682
+440 150 7656
+223
+Behavior Science
+2.70
+NotApplying4Scholarship
+Cristo S. Balitzer
+1453 Fortuna
+page
+West Virginia
+76513
+337 724 6874
+224
+Music
+0.99
+Applying4Scholarship
+Christie I. Dershem
+807 South 3343 North
+Bakersville
+Alaska
+44002
+018 208 7654
+225
+Biology
+0.42
+NotApplying4Scholarship
+Reid R. Monroe
+302 South 2641 West
+Jackson
+North Dakota
+58507
+681 010 0622
+226
+English
+3.66
+NotApplying4Scholarship
+Wren P. Calichman
+6848 Buffon
+St. Paul
+Tennessee
+88140
+488 637 2714
+227
+Accounting
+1.64
+NotApplying4Scholarship
+Tyne Q. Bowman
+327 West 6103 West
+Stafford
+North Carolina
+05212
+805 565 4484
+228
+Accounting
+2.78
+Applying4Scholarship
+Makani V. Black
+126 West 2866 East
+Andover
+Nevada
+46113
+404 377 0612
+229
+Social Work
+2.83
+Applying4Scholarship
+Roger I. Robinson
+367 South 1721 East
+Bakerfield
+Maine
+50224
+042 576 8607
+230
+Biology
+2.92
+NotApplying4Scholarship
+Scott A. Heerwald
+463 North 8834 North
+Victoria
+Louisiana
+41634
+107 871 2726
+231
+Biochemistry
+2.33
+NotApplying4Scholarship
+Makani V. Kerry
+643 East 1483 East
+Portland
+Minnesota
+62875
+000 684 3074
+232
+Music
+0.98
+NotApplying4Scholarship
+Cole V. Mintz
+704 West 0582 South
+Springville
+Maryland
+25065
+304 650 3670
+233
+English
+3.01
+Applying4Scholarship
+Mani Z. O'malley
+401 East 6076 South
+Chicago
+Delaware
+05542
+210 650 5437
+234
+Economics
+3.83
+Applying4Scholarship
+Farquhar X. Casad
+123 South 7070 North
+Boise
+North Carolina
+38316
+578 215 8685
+235
+Math
+0.79
+NotApplying4Scholarship
+Craig T. Eldregde
+855 West 7477 West
+Salt Lake
+South Carolina
+31765
+108 608 8412
+236
+Pharmacy
+0.55
+Applying4Scholarship
+Crispin B. Williams
+0560 Leibniz
+Seattle
+Ohio
+16521
+255 042 0328
+237
+Nursing
+3.78
+Applying4Scholarship
+Andrea S. Haskell
+685 West 4866 South
+East Haven
+New Hampshire
+72045
+477 262 3454
+238
+Biology
+2.87
+Applying4Scholarship
+Milan Y. Nelson
+621 West 1721 East
+Runt
+Virginia
+23684
+526 060 6367
+239
+Electrical Engineering
+1.32
+NotApplying4Scholarship
+Ellery M. Lee
+407 North 8806 West
+Dayton
+Connecticut
+65321
+230 747 0204
+240
+Law
+2.71
+Applying4Scholarship
+June G. Keil
+806 South 1363 North
+San Diego
+New Jersey
+72032
+036 614 4444
+241
+Biochemistry
+2.01
+Applying4Scholarship
+Tarn Q. Sampson
+508 South 4261 East
+Seattle
+North Dakota
+05034
+043 672 2527
+242
+Law
+2.03
+NotApplying4Scholarship
+Cyrus Y. Camp
+0216 F st.
+Seoul
+Maryland
+11358
+607 162 3857
+243
+Business
+2.24
+Applying4Scholarship
+Rafiq P. Gross
+166 West 0378 West
+Glendale
+Ohio
+37125
+858 437 5367
+244
+Computer Science
+1.99
+Applying4Scholarship
+Frank X. Gilbert
+371 South 6620 East
+Bakerfield
+Washington
+44552
+058 783 1312
+245
+Law
+0.22
+NotApplying4Scholarship
+Wren C. Calichman
+7058 Herbert
+Stamford
+Minnesota
+12338
+802 044 4246
+246
+Mechanical Engineering
+3.45
+NotApplying4Scholarship
+Nyall Q. Bradley
+8002 Princeton
+Vancouver
+Oklahoma
+10314
+715 235 8112
+247
+History
+2.53
+Applying4Scholarship
+Xavier K. Zachary
+538 East 6087 East
+Glendale
+Arizona
+32363
+357 186 5112
+248
+Pre-Med
+1.60
+NotApplying4Scholarship
+Zamir B. Bowman
+176 South 8654 West
+Portland
+Maine
+08764
+077 152 8742
+249
+Fine Arts
+0.85
+NotApplying4Scholarship
+Sebastian B. Farell
+378 South 1568 West
+Bahgdad
+Louisiana
+72141
+652 510 2264
+250
+Ballet
+0.46
+NotApplying4Scholarship
+Jennifer X. Gilbert
+818 North 7367 South
+San Diego
+Massachusetts
+71717
+313 860 3253
+251
+History
+3.66
+Applying4Scholarship
+Varian E. Chi
+550 East 1651 South
+Boise
+Connecticut
+10320
+633 088 7873
+252
+Math
+3.82
+Applying4Scholarship
+Walter M. Hess
+504 West 5530 East
+Monroe
+North Carolina
+70031
+384 606 4360
+253
+Accounting
+1.49
+NotApplying4Scholarship
+Asuman D. Candaele
+612 North 6558 North
+Richfield
+Minnesota
+08710
+524 000 3753
+254
+Art
+3.98
+Applying4Scholarship
+Mahon R. Chase
+051 East 8231 South
+Sacramento
+Missouri
+81171
+313 856 5381
+255
+Biochemistry
+2.00
+NotApplying4Scholarship
+Israel A. Baduini
+500 South 6252 East
+Garrison
+Minnesota
+66215
+663 851 4136
+256
+International Studies
+3.82
+NotApplying4Scholarship
+Farquhar Y. Haskell
+761 East 7068 West
+Seoul
+Alaska
+76168
+407 422 8634
+257
+Education
+3.62
+NotApplying4Scholarship
+Paine L. Lee
+784 East 4125 South
+Stuckyville
+Michigan
+12238
+728 680 0457
+258
+Sociology
+0.80
+Applying4Scholarship
+Carson Y. Farell
+232 West 2233 West
+Wayne
+Louisiana
+35016
+483 715 5137
+259
+Electrical Engineering
+3.09
+NotApplying4Scholarship
+Soren Q. Appelbaum
+810 West 4428 East
+Eugene
+Arizona
+24484
+880 774 0601
+260
+Geography
+0.43
+Applying4Scholarship
+Donato H. Campbell
+647 North 0062 South
+Salt Lake
+Utah
+70438
+613 644 3203
+261
+Sociology
+2.41
+Applying4Scholarship
+Cahil F. Greth
+5571 Hubbard
+Baker
+Delaware
+82878
+406 568 1137
+262
+Business
+1.30
+Applying4Scholarship
+Vidas H. Cody
+425 South 0163 West
+Stamford
+Mississippi
+44464
+557 377 8528
+263
+Behavior Science
+1.04
+Applying4Scholarship
+Paul V. Sampson
+067 South 2224 South
+Moscow
+Washington
+41288
+656 245 3830
+264
+Law
+2.12
+Applying4Scholarship
+Debbie K. Affin
+371 North 2728 East
+Baker
+Louisiana
+71474
+366 521 8034
+265
+Music
+2.61
+Applying4Scholarship
+Mahon Y. Slind
+412 East 7761 East
+Garrison
+Louisiana
+63725
+712 323 1425
+266
+Management
+0.46
+Applying4Scholarship
+Tariq Q. Chin
+553 West 1412 East
+page
+Indiana
+48461
+222 138 8041
+267
+Geography
+2.34
+NotApplying4Scholarship
+Khalil M. Miyasaki
+4460 Young Oak
+Bakersville
+Vermont
+71142
+032 511 0313
+268
+Business
+2.69
+NotApplying4Scholarship
+Etienne S. Biltz
+3588 Leibniz
+Philladelphia
+Oregon
+36257
+036 431 6000
+269
+Education
+1.03
+Applying4Scholarship
+Elan M. Riloff
+638 South 2551 North
+Chicago
+Wyoming
+67380
+570 251 8530
+270
+Theater
+0.76
+NotApplying4Scholarship
+Caleb Z. Zamin
+4041 E St.
+Springville
+Virginia
+33011
+856 875 2532
+271
+History
+2.02
+Applying4Scholarship
+Lennox D. Hiskey
+753 North 7040 South
+Wonderful
+South Dakota
+65880
+333 041 1550
+272
+Education
+0.99
+NotApplying4Scholarship
+Chaney P. Kerry
+171 West 7857 West
+Jackson
+Arkansas
+38748
+253 125 0040
+273
+Electrical Engineering
+2.46
+NotApplying4Scholarship
+Bakari H. Dershem
+837 West 7607 East
+Los Angeles
+Ohio
+27263
+816 118 7618
+274
+Fine Arts
+1.85
+Applying4Scholarship
+Ammon S. Thom
+3106 Loren Von Ave.
+Victoria
+Oklahoma
+78382
+750 020 7203
+275
+Medicine
+0.14
+NotApplying4Scholarship
+Jaleel M. Chi
+672 North 0213 East
+Stamford
+Arizona
+87836
+055 682 3346
+276
+Philosophy
+1.92
+Applying4Scholarship
+Ansari I. Fahim
+345 West 6808 South
+Eugene
+Georgia
+38470
+410 257 7510
+277
+History
+2.19
+Applying4Scholarship
+Fane X. Monroe
+0277 Buffon
+Sandy
+New Jersey
+06250
+266 724 6883
+278
+Pre-Dental
+2.88
+Applying4Scholarship
+Carrik K. Candaele
+1315 Wilson Ave.
+Bahgdad
+Oregon
+85542
+842 428 1546
+279
+Biochemistry
+2.49
+NotApplying4Scholarship
+Cy J. Brunvand
+622 East 5851 South
+Bakerfield
+Minnesota
+18341
+465 781 5843
+280
+History
+1.37
+Applying4Scholarship
+Mayan R. Dershem
+472 South 6870 East
+San Diego
+Ohio
+13851
+863 227 8555
+281
+Education
+1.77
+Applying4Scholarship
+Tarun Y. Lim
+771 East 0025 North
+Runt
+Rhode Island
+61820
+355 305 6263
+282
+Pre-Dental
+3.58
+NotApplying4Scholarship
+Ainsley I. Douville
+335 South 5665 South
+Denver
+Maine
+82065
+147 822 8721
+283
+Management
+2.43
+Applying4Scholarship
+Christie H. Lee
+858 West 8572 South
+Maryville
+Pennsylvania
+57684
+671 666 2427
+284
+Art
+2.06
+Applying4Scholarship
+Zeke L. Bishop
+7735 Kerry
+Monroe
+Nevada
+34340
+754 785 6330
+285
+Electrical Engineering
+0.23
+Applying4Scholarship
+Uriah V. Myer
+584 East 3535 East
+Las Vegas
+Michigan
+03187
+144 382 8615
+286
+Ballet
+1.41
+Applying4Scholarship
+Steven K. Ascher
+1032 Stanford
+Runt
+Hawaii
+31082
+007 425 1685
+287
+History
+2.43
+Applying4Scholarship
+Lennox U. Cody
+118 North 1108 West
+Stafford
+Arkansas
+34015
+180 485 6035
+288
+Education
+1.35
+NotApplying4Scholarship
+Vyasa L. Lindstrom
+440 North 5363 East
+Jackson
+Kansas
+43513
+342 660 6287
+289
+Geography
+3.17
+NotApplying4Scholarship
+Hilary I. Kennedy
+736 North 4078 West
+Glendale
+Wisconsin
+42634
+183 141 3566
+290
+Biology
+3.56
+NotApplying4Scholarship
+Saxton U. Thompson
+5115 Good One
+Pomona
+Michigan
+26308
+638 187 4771
+291
+International Studies
+3.36
+Applying4Scholarship
+Benedict J. Affin
+475 West 8630 North
+Pomona
+Rhode Island
+83337
+466 322 7565
+292
+Business
+2.42
+NotApplying4Scholarship
+Perry Y. Affin
+200 West 5821 South
+Newtown
+Alabama
+15785
+606 418 8437
+293
+Art
+0.13
+Applying4Scholarship
+Benedict M. Farell
+320 North 4658 East
+Southbury
+Virginia
+53363
+073 357 7212
+294
+Computer Engineering
+3.81
+Applying4Scholarship
+Sloane T. O'malley
+511 West 5240 West
+St. Paul
+Louisiana
+61662
+546 161 1028
+295
+Biology
+1.98
+NotApplying4Scholarship
+Paine A. Camp
+123 East 6036 West
+Bountiful
+Nevada
+16068
+243 702 4703
+296
+Aerospace Studies
+1.59
+NotApplying4Scholarship
+Milan S. Goss
+583 South 3466 North
+Florence
+Georgia
+26513
+845 414 6205
+297
+Undeclared
+1.98
+Applying4Scholarship
+Sharif Y. Zone
+625 South 1117 East
+Eugene
+Vermont
+11067
+103 531 4386
+298
+Education
+3.11
+Applying4Scholarship
+Quinn I. Eggett
+820 North 1627 South
+Moab
+Michigan
+55453
+140 254 4126
+299
+Math
+4.0
+Applying4Scholarship
+Dacey N. Gould
+476 West 5746 West
+Vancouver
+Alabama
+11046
+734 075 4426
+300
+Education
+2.06
+NotApplying4Scholarship
+Daniel R. Guthrie
+483 East 3601 East
+East Haven
+Mississippi
+50501
+685 536 4578
+301
+Pharmacy
+0.49
+Applying4Scholarship
+Jeff P. Higdon
+635 South 0105 West
+Wonderful
+Virginia
+87522
+377 324 3202
+302
+Chemistry
+1.39
+NotApplying4Scholarship
+Levin V. Antecol
+058 East 0433 East
+Sacramento
+Hawaii
+85034
+116 307 8702
+303
+Marketing
+2.06
+Applying4Scholarship
+Nishan I. Egg
+164 East 7467 North
+Portland
+Iowa
+56847
+733 410 7732
+304
+Fine Arts
+2.80
+Applying4Scholarship
+Tyson X. Krauss
+774 East 7232 South
+East Haven
+Hawaii
+44856
+236 327 2201
+305
+Nursing
+0.76
+NotApplying4Scholarship
+Henry A. Chorba
+0614 Wilson Ave.
+Las Vegas
+North Carolina
+57040
+342 000 6233
+306
+Communication
+3.00
+Applying4Scholarship
+Sven U. Blackham
+833 East 3558 East
+Newtown
+North Carolina
+01618
+325 285 6767
+307
+International Studies
+3.03
+NotApplying4Scholarship
+Pascal S. Goodrich
+3242 Fortuna
+Jolly
+Rhode Island
+81375
+800 133 4388
+308
+Undeclared
+3.02
+Applying4Scholarship
+Paris Y. Clark
+124 West 8375 South
+Moab
+North Carolina
+04215
+770 154 8482
+309
+Special Education
+3.78
+Applying4Scholarship
+Mercer P. Gilbert
+184 West 5302 North
+Portland
+Delaware
+33228
+253 058 5545
+310
+Accounting
+3.20
+NotApplying4Scholarship
+Grady G. Bishop
+337 North 8058 South
+Riverside
+Utah
+78060
+214 857 8826
+311
+Art
+0.24
+NotApplying4Scholarship
+Cadell I. Gilbert
+2886 Monge Dr.
+Torry
+Pennsylvania
+64538
+546 666 6167
+312
+Art
+2.43
+Applying4Scholarship
+Urian I. Monroe
+577 West 5872 South
+San Diego
+Tennessee
+16272
+123 545 4457
+313
+Management
+2.59
+Applying4Scholarship
+Donato S. Adolphson
+427 East 6574 South
+Tacoma
+Oregon
+30514
+182 611 8667
+314
+Linguistics
+2.21
+NotApplying4Scholarship
+Saviero N. BlackBurn
+818 East 7508 West
+Wayne
+Wisconsin
+26538
+535 168 2680
+315
+Special Education
+1.07
+Applying4Scholarship
+Myall E. Aksoy
+272 South 8057 North
+Dayton
+Hawaii
+14311
+870 606 7828
+316
+Music
+1.87
+Applying4Scholarship
+Patrick G. Clark
+810 North 0736 South
+St. Paul
+California
+64062
+606 804 3340
+317
+Nursing
+3.92
+Applying4Scholarship
+Shiloh L. Goss
+147 West 4818 North
+Sacramento
+North Carolina
+35221
+016 666 7445
+318
+Bioengineering
+3.99
+NotApplying4Scholarship
+Vachel L. Biltz
+001 South 1655 North
+Baker
+Maryland
+28277
+124 252 7214
+319
+Education
+2.80
+NotApplying4Scholarship
+Chris U. Brown
+632 South 6712 West
+Stamford
+Montana
+14164
+330 002 2484
+320
+Architecture
+3.61
+NotApplying4Scholarship
+Willard V. Aerus
+268 East 5058 East
+Eugene
+Texas
+85368
+273 504 4217
+321
+Architecture
+0.10
+Applying4Scholarship
+Lamech M. Chorba
+417 East 5540 South
+Torry
+Tennessee
+58522
+573 142 8834
+322
+Pre-Med
+0.45
+Applying4Scholarship
+Eli A. Appel
+7162 Wilson Ave.
+St. Paul
+Alabama
+01182
+251 330 6781
+323
+Anthropology
+1.76
+NotApplying4Scholarship
+Kersey M. Zamin
+435 East 4465 South
+Sherman
+Rhode Island
+83464
+803 523 2657
+324
+Theater
+2.21
+NotApplying4Scholarship
+Christie O. Castro
+107 West 7207 North
+Newtown
+Michigan
+44133
+470 856 1856
+325
+Computer Engineering
+1.63
+Applying4Scholarship
+Eli Z. Calichman
+650 South 7132 West
+Stockton
+North Dakota
+43334
+566 536 4843
+326
+Linguistics
+2.07
+NotApplying4Scholarship
+Frayne Q. Gross
+346 North 3052 East
+Moscow
+South Carolina
+40276
+185 872 7553
+327
+Music
+0.83
+Applying4Scholarship
+Roshan K. Garris
+265 East 8667 East
+Sherman
+New Jersey
+04167
+101 515 3666
+328
+Music
+1.57
+NotApplying4Scholarship
+Grady I. Nelson
+102 East 4323 North
+Wayne
+Delaware
+87585
+814 186 8845
+329
+Mechanical Engineering
+3.16
+NotApplying4Scholarship
+Weston F. Gilbert
+475 West 0443 West
+Philladelphia
+Minnesota
+27411
+484 200 5726
+330
+Pre-Med
+1.38
+Applying4Scholarship
+Dane V. Adolphson
+217 North 4883 West
+Andover
+Georgia
+84806
+056 321 3760
+331
+Math
+2.81
+NotApplying4Scholarship
+Fabrice J. Robinson
+678 East 3320 North
+St. Paul
+Ohio
+60661
+624 126 5814
+332
+Bioengineering
+1.44
+NotApplying4Scholarship
+Diane Y. Appel
+506 East 0645 North
+Baker
+Texas
+16640
+665 762 1760
+333
+Music
+3.00
+Applying4Scholarship
+Qasim E. Aerus
+175 West 4555 West
+Andover
+Maine
+80582
+206 652 7305
+334
+Nursing
+1.95
+Applying4Scholarship
+Mayer D. Goeree
+006 South 5565 West
+Garrison
+Utah
+40760
+752 766 8440
+335
+Education
+2.25
+Applying4Scholarship
+Audrey U. Clark
+877 West 4120 East
+Seattle
+Virginia
+32575
+658 601 5580
+336
+Math
+2.01
+NotApplying4Scholarship
+Quinn I. Greth
+237 South 5768 North
+Jolly
+Colorado
+42156
+665 348 5277
+337
+Management
+1.50
+NotApplying4Scholarship
+Conan B. Kind
+421 South 8187 East
+Tacoma
+Florida
+77500
+213 487 7756
+338
+Psychology
+2.74
+Applying4Scholarship
+Rafe D. Aksoy
+6571 Wilson Ave.
+San Diego
+Arkansas
+68065
+663 448 0184
+339
+Nursing
+1.72
+Applying4Scholarship
+Kavan L. Ashmiller
+460 East 8237 North
+page
+Utah
+54351
+057 867 0845
+340
+Bioengineering
+2.00
+NotApplying4Scholarship
+Shen Q. Chorba
+852 West 2218 East
+Florence
+Hawaii
+43862
+618 078 0308
+341
+Computer Science
+1.48
+NotApplying4Scholarship
+Timothy H. Robinson
+1557 Kennedy
+Moab
+Alaska
+61672
+880 202 5556
+342
+Nursing
+3.07
+NotApplying4Scholarship
+Saville B. Lim
+441 West 1864 North
+Runt
+Mississippi
+66588
+850 222 4772
+343
+Undeclared
+3.35
+NotApplying4Scholarship
+Vitale Q. Clark
+158 East 0060 East
+Garrison
+Ohio
+66302
+756 878 5721
+344
+Theater
+1.64
+NotApplying4Scholarship
+Nils O. Petersen
+250 West 4534 West
+Moab
+Colorado
+30867
+267 206 4156
+345
+Pre-Dental
+3.18
+Applying4Scholarship
+Fay U. Hahn
+258 East 3403 South
+Atlanta
+Texas
+82353
+870 384 8532
+346
+Behavior Science
+2.67
+NotApplying4Scholarship
+Hemi S. Chase
+545 South 7287 North
+Los Angeles
+Missouri
+88886
+037 421 0885
+347
+Music
+2.92
+Applying4Scholarship
+Kathleen X. Kind
+823 South 7123 South
+Los Angeles
+North Dakota
+07374
+203 077 8242
+348
+Theater
+0.52
+NotApplying4Scholarship
+Amy S. Kind
+168 North 0767 North
+Riverside
+Oregon
+38303
+741 667 6725
+349
+Special Education
+1.06
+NotApplying4Scholarship
+Aston E. Smith
+8620 Broglie Blvd.
+Sacramento
+Nebraska
+55276
+828 163 8022
+350
+Pre-Dental
+3.40
+NotApplying4Scholarship
+Jourdan B. Chase
+146 West 5325 South
+Bahgdad
+Indiana
+24887
+465 126 4763
+351
+Physics
+2.75
+Applying4Scholarship
+Lani Z. Miller
+7117 Hubbard
+Salt Lake
+New York
+13851
+685 858 1065
+352
+Mining Engineering
+1.42
+NotApplying4Scholarship
+Carson S. Zamin
+142 West 5082 East
+Southbury
+North Dakota
+22415
+354 005 4247
+353
+Electrical Engineering
+2.24
+Applying4Scholarship
+Ryder F. Aerus
+411 West 0311 North
+Portland
+Nevada
+71503
+034 287 7147
+354
+Theater
+3.03
+Applying4Scholarship
+Kinnard T. Monroe
+777 East 6233 North
+Eugene
+Texas
+17156
+010 688 8578
+355
+Economics
+3.18
+Applying4Scholarship
+Chad E. Eggett
+072 West 0146 West
+Victoria
+Delaware
+01625
+612 388 8675
+356
+Aerospace Studies
+0.04
+NotApplying4Scholarship
+Nico Q. Egg
+845 South 6715 North
+Salt Lake
+Kentucky
+04502
+216 018 6724
+357
+Mining Engineering
+1.41
+Applying4Scholarship
+Arley N. Egg
+770 West 0651 West
+Eugene
+New York
+78065
+366 451 5177
+358
+Electrical Engineering
+0.59
+NotApplying4Scholarship
+Kersey A. Garris
+122 East 4338 East
+Monroe
+West Virginia
+31227
+035 828 8638
+359
+Physics
+2.32
+Applying4Scholarship
+Nico Y. Clinton
+215 East 7825 East
+Riverton
+South Carolina
+28350
+573 824 3201
+360
+Ballet
+1.97
+Applying4Scholarship
+Ciaran R. Aksoy
+770 South 6243 East
+Pomona
+Vermont
+62374
+734 202 7238
+361
+Pre-Dental
+3.84
+NotApplying4Scholarship
+Jacek H. Farell
+056 West 3105 East
+Atlanta
+Wyoming
+52603
+733 711 3353
+362
+Aerospace Studies
+0.87
+Applying4Scholarship
+Cato Q. Goodrich
+6287 Kennedy
+Torry
+Idaho
+54204
+608 348 6318
+363
+Behavior Science
+0.47
+Applying4Scholarship
+Jennifer I. Featherstone
+843 West 8647 North
+Atlanta
+Nebraska
+11638
+776 866 6336
+364
+Economics
+0.35
+NotApplying4Scholarship
+Tanner A. Slind
+001 North 2518 North
+Philladelphia
+Georgia
+63841
+512 327 6884
+365
+Mining Engineering
+0.78
+Applying4Scholarship
+Hani I. Mayfield
+4314 Fortuna
+Salt Lake
+South Carolina
+46238
+218 442 1710
+366
+Nursing
+1.64
+NotApplying4Scholarship
+Cody M. Zone
+053 West 2717 West
+Richfield
+Vermont
+50867
+645 422 0418
+367
+Philosophy
+0.98
+NotApplying4Scholarship
+Quincy V. Greth
+844 North 1013 West
+Florence
+Oregon
+48410
+308 586 6163
+368
+Behavior Science
+0.98
+NotApplying4Scholarship
+Jervase S. Eldregde
+372 North 0687 North
+Philladelphia
+New Hampshire
+07370
+608 248 1438
+369
+Math
+1.50
+NotApplying4Scholarship
+Vartan H. O'malley
+652 West 7255 East
+Garrison
+Alabama
+74428
+477 221 1180
+370
+Asian Studies
+0.55
+NotApplying4Scholarship
+Phoenix Q. Fahim
+781 West 6305 West
+Pomona
+Michigan
+20827
+185 065 8077
+371
+Medicine
+0.75
+Applying4Scholarship
+Jesse Z. Bishop
+4143 Cornell
+Bakerfield
+Nevada
+66442
+152 632 1016
+372
+Bioengineering
+1.54
+NotApplying4Scholarship
+Lamech L. Lepereu
+064 West 0640 West
+Jolly
+West Virginia
+50618
+122 383 2378
+373
+Behavior Science
+4.0
+NotApplying4Scholarship
+Diego G. Kerry
+600 West 7027 East
+Bountiful
+Idaho
+43352
+874 123 0037
+374
+Mechanical Engineering
+3.82
+Applying4Scholarship
+Tom L. Thompson
+2036 Princeton
+Philladelphia
+Washington
+75833
+834 621 2183
+375
+Computer Engineering
+3.66
+NotApplying4Scholarship
+Ari U. Mayfield
+6627 Stanford
+Florence
+New York
+13085
+026 668 2082
+376
+International Studies
+3.69
+NotApplying4Scholarship
+Philemon S. Mayfield
+662 North 6178 North
+Wonderful
+Arizona
+75523
+766 004 3423
+377
+Economics
+1.07
+Applying4Scholarship
+Orton P. Bradley
+1657 De Vinci Ave.
+Sherman
+New York
+48442
+213 613 2405
+378
+Law
+0.52
+Applying4Scholarship
+Nye Q. Antecol
+386 East 7182 East
+Boise
+Georgia
+70860
+258 202 8582
+379
+Pre-Med
+2.23
+NotApplying4Scholarship
+Tarquin I. Lindstrom
+3076 Interesting One
+Seattle
+North Carolina
+54155
+186 348 0415
+380
+Geology
+3.10
+NotApplying4Scholarship
+Ezra R. Bessette
+3037 Good One
+Moscow
+Washington
+54104
+184 662 7357
+381
+Mining Engineering
+1.64
+Applying4Scholarship
+Semyon X. Thompson
+432 South 5447 East
+Philladelphia
+Indiana
+71054
+313 617 5158
+382
+Pharmacy
+3.32
+NotApplying4Scholarship
+Lars N. Thompson
+7457 Harvard
+Stockton
+Pennsylvania
+67182
+823 868 0500
+383
+Law
+0.12
+Applying4Scholarship
+Rafiq I. Petersen
+115 East 7741 East
+Moab
+Indiana
+66244
+771 150 0162
+384
+Communication
+3.01
+Applying4Scholarship
+Hyam M. Nelson
+876 South 4307 West
+Bountiful
+Idaho
+73302
+602 320 6180
+385
+Bioengineering
+2.50
+Applying4Scholarship
+Ramiro E. Miyasaki
+061 South 8447 West
+Baker
+California
+60678
+453 018 1351
+386
+Medicine
+3.31
+Applying4Scholarship
+Anthony G. Appelbaum
+745 East 1504 West
+Stockton
+Mississippi
+57153
+815 546 1036
+387
+Behavior Science
+3.32
+Applying4Scholarship
+Gaston O. Zachary
+351 South 2376 West
+Sandy
+Minnesota
+77711
+250 714 2410
+388
+Architecture
+3.49
+Applying4Scholarship
+Ali H. Hiskey
+4126 Main St.
+Sandy
+Delaware
+61068
+530 642 1663
+389
+Linguistics
+2.32
+Applying4Scholarship
+Bryce V. Bilger
+884 East 4087 South
+Eugene
+Arizona
+38101
+458 245 5516
+390
+Philosophy
+2.61
+Applying4Scholarship
+Aden U. Burdekin
+130 West 2843 South
+Jackson
+Pennsylvania
+81561
+311 804 5870
+391
+Civil Engineering
+0.65
+NotApplying4Scholarship
+Gerald D. Mintz
+4802 Monge Dr.
+Seoul
+New Mexico
+87605
+762 107 7063
+392
+Family and Consumer Studies
+1.35
+NotApplying4Scholarship
+Phineas L. Dershem
+8202 Kennedy
+Glendale
+Indiana
+85051
+082 337 8222
+393
+Special Education
+3.28
+NotApplying4Scholarship
+Tom O. Busch
+8363 E St.
+Boise
+Missouri
+22222
+636 427 8011
+394
+Ballet
+3.17
+Applying4Scholarship
+Frank B. Chin
+508 West 6537 North
+Chicago
+Ohio
+18424
+330 645 6601
+395
+Education
+0.31
+NotApplying4Scholarship
+Jourdano I. Bilger
+628 West 2441 North
+Jolly
+Kentucky
+87368
+223 847 8301
+396
+Law
+0.14
+NotApplying4Scholarship
+Harlan P. Baduini
+124 South 0120 West
+Portland
+New Hampshire
+04045
+108 876 5718
+397
+Computer Science
+0.80
+NotApplying4Scholarship
+Kathleen C. Eldregde
+082 West 8446 North
+Andover
+Missouri
+54175
+605 266 4375
+398
+History
+3.24
+NotApplying4Scholarship
+Gabriel B. Woods
+6251 Monge Dr.
+Maryville
+New Hampshire
+16646
+565 185 2030
+399
+Education
+0.04
+Applying4Scholarship
+Ihaka C. Monroe
+237 South 8633 West
+Bakerfield
+Texas
+76788
+286 306 6142
+400
+Philosophy
+0.07
+NotApplying4Scholarship
+Casey E. Burdekin
+852 North 3252 South
+Bakersville
+Kentucky
+65768
+172 668 5561
+401
+Art
+1.11
+Applying4Scholarship
+Igor U. Jackson
+826 North 5334 North
+Tacoma
+Alaska
+17747
+261 753 3784
+402
+Medicine
+1.96
+Applying4Scholarship
+Kelan W. Busch
+2165 Young Oak
+Baker
+Louisiana
+20020
+400 462 2502
+403
+Special Education
+1.69
+Applying4Scholarship
+Aston S. Zachary
+011 East 1501 North
+Monroe
+Idaho
+16066
+474 546 1523
+404
+Business
+0.75
+NotApplying4Scholarship
+Reid P. Chi
+048 North 6805 East
+Jackson
+Maine
+27714
+521 331 6746
+405
+Philosophy
+2.09
+Applying4Scholarship
+Ian W. Jackson
+716 West 2183 East
+Moab
+Maine
+00505
+513 780 2103
+406
+Biology
+1.78
+Applying4Scholarship
+Gerald U. Miller
+601 North 7336 East
+Southbury
+Kansas
+06112
+246 141 3636
+407
+Chemical Engineering
+2.03
+NotApplying4Scholarship
+Rory W. Krauss
+350 South 5768 South
+Stamford
+New Mexico
+61680
+842 532 1831
+408
+Computer Science
+2.28
+Applying4Scholarship
+Van V. Black
+388 East 7513 West
+Wonderful
+Vermont
+35177
+885 370 1822
+409
+Anthropology
+1.52
+NotApplying4Scholarship
+Sumner O. Goeree
+282 West 0884 North
+Dayton
+North Dakota
+77240
+424 288 2238
+410
+Music
+0.98
+Applying4Scholarship
+Fabrice B. Haskell
+5684 Malus St.
+Torry
+Tennessee
+71361
+028 023 4303
+411
+Undeclared
+0.55
+Applying4Scholarship
+Marlon I. Helland
+3258 Kennedy
+Jolly
+Kentucky
+72357
+366 100 0862
+412
+Linguistics
+3.29
+Applying4Scholarship
+Tashi B. Black
+405 East 0351 South
+Moscow
+Mississippi
+20762
+424 884 0743
+413
+Behavior Science
+3.45
+Applying4Scholarship
+Tremaine H. Ehrig
+448 East 4520 North
+Riverton
+Pennsylvania
+74136
+641 686 1121
+414
+Economics
+2.85
+Applying4Scholarship
+Ravi W. Petersen
+457 North 4467 South
+Sandy
+Maryland
+14750
+235 771 2582
+415
+Marketing
+2.66
+NotApplying4Scholarship
+Patrick G. Clinton
+827 North 1254 West
+Jolly
+Oregon
+07216
+105 314 0587
+416
+Fine Arts
+3.16
+Applying4Scholarship
+Miriam M. Dershem
+436 North 7714 East
+Fresno
+Virginia
+51812
+171 406 7028
+417
+History
+2.89
+NotApplying4Scholarship
+Sharif K. Aksoy
+071 North 4617 West
+Stockton
+Florida
+35867
+658 314 0250
+418
+Electrical Engineering
+2.11
+NotApplying4Scholarship
+Pearson G. Dimagio
+368 North 4035 North
+Moscow
+Arizona
+22241
+077 702 7261
+419
+Mining Engineering
+1.44
+Applying4Scholarship
+Gerald I. Trang
+511 East 3032 North
+Garrison
+West Virginia
+73873
+028 586 2735
+420
+Marketing
+0.95
+NotApplying4Scholarship
+Brae F. Bilger
+646 North 1030 West
+Seattle
+Wisconsin
+87356
+338 877 0472
+421
+Economics
+2.96
+Applying4Scholarship
+Duarte M. Chi
+268 West 8773 West
+Moscow
+Alaska
+42388
+615 561 0706
+422
+Accounting
+0.62
+Applying4Scholarship
+Zahir Z. Miyasaki
+725 West 4683 South
+Victoria
+New York
+82785
+762 380 7254
+423
+Aerospace Studies
+3.74
+Applying4Scholarship
+Demas W. Bishop
+336 East 1623 West
+Sandy
+Rhode Island
+58166
+665 352 0772
+424
+Math
+1.62
+NotApplying4Scholarship
+Ansari X. Brown
+863 North 4558 West
+Wayne
+Texas
+88706
+735 688 8674
+425
+Accounting
+3.84
+NotApplying4Scholarship
+Cole C. Kell
+5784 Buffon
+Fresno
+Wyoming
+57086
+314 623 7584
+426
+Computer Engineering
+1.17
+NotApplying4Scholarship
+Sage N. Miller
+260 North 6852 West
+Los Angeles
+Maine
+27010
+875 734 5721
+427
+Special Education
+0.42
+Applying4Scholarship
+Darien W. Appelbaum
+522 East 7626 West
+Moscow
+Nevada
+26584
+858 326 0361
+428
+Pre-Dental
+2.57
+NotApplying4Scholarship
+Zaine G. Guthrie
+525 North 1010 North
+Andover
+Washington
+24434
+475 737 3373
+429
+Biochemistry
+2.54
+Applying4Scholarship
+Arley L. Greth
+201 East 7477 East
+San Diego
+Maine
+40581
+437 181 8788
+430
+Pre-Med
+1.44
+NotApplying4Scholarship
+Bobby B. Greth
+771 North 1485 West
+Runt
+South Dakota
+54565
+013 482 3135
+431
+Medicine
+2.53
+NotApplying4Scholarship
+Larry P. Brunvand
+5780 Malus St.
+Seattle
+Alabama
+85623
+274 714 6145
+432
+Civil Engineering
+3.30
+NotApplying4Scholarship
+Lisa W. Flatt
+321 South 1230 North
+Sacramento
+South Carolina
+23370
+564 672 7840
+433
+Geology
+2.92
+NotApplying4Scholarship
+Sam R. Aksoy
+316 North 6048 South
+Bahgdad
+Arizona
+55062
+270 174 6321
+434
+Business
+2.60
+NotApplying4Scholarship
+Iago O. Slind
+5000 Interesting One
+Andover
+Arizona
+45028
+751 263 8676
+435
+Aerospace Studies
+0.99
+NotApplying4Scholarship
+Cristo C. Arndt
+614 East 2423 East
+Riverside
+Louisiana
+01866
+505 761 5315
+436
+Computer Science
+3.70
+NotApplying4Scholarship
+Severn V. Trang
+405 South 4325 North
+Wonderful
+New Mexico
+32016
+222 730 1110
+437
+Sociology
+1.18
+NotApplying4Scholarship
+Bae D. Haskell
+4785 Abel Dr.
+Stockton
+New Mexico
+76433
+781 366 2621
+438
+Chemistry
+1.85
+Applying4Scholarship
+Hume T. Miyasaki
+366 West 1430 South
+Stuckyville
+California
+03671
+443 465 3282
+439
+Anthropology
+1.93
+NotApplying4Scholarship
+Ann Z. Thompson
+476 East 4017 West
+Salt Lake
+Iowa
+70140
+410 711 1058
+440
+Linguistics
+2.70
+Applying4Scholarship
+Shiloh A. Huang
+878 North 5204 South
+Wayne
+Oregon
+74758
+138 836 7231
+441
+Civil Engineering
+2.03
+NotApplying4Scholarship
+Bevin R. Monroe
+1708 Loren Von Ave.
+Maryville
+Missouri
+24336
+314 540 7017
+442
+Bioengineering
+1.71
+NotApplying4Scholarship
+Conn O. Chang
+785 West 6454 West
+Boise
+New Hampshire
+21671
+027 235 2001
+443
+Art
+0.06
+Applying4Scholarship
+Hannes Q. Goodrich
+553 South 6642 East
+Monroe
+Maryland
+80613
+008 188 3073
+444
+Computer Science
+3.63
+NotApplying4Scholarship
+Tashi V. Sampson
+1777 Wilson Ave.
+Jolly
+Minnesota
+60574
+362 657 2157
+445
+Geology
+1.19
+Applying4Scholarship
+Tai H. Goeree
+172 West 7765 North
+Bakersville
+Nebraska
+75827
+625 806 1864
+446
+Education
+1.93
+NotApplying4Scholarship
+Grechen J. Faggen
+057 West 8341 West
+Sherman
+Georgia
+34550
+387 600 3487
+447
+Physics
+3.61
+NotApplying4Scholarship
+Carne J. Bowman
+758 North 2220 South
+Vancouver
+Pennsylvania
+53354
+667 336 3803
+448
+Behavior Science
+3.27
+Applying4Scholarship
+Santos L. Brunvand
+713 North 1006 West
+Bahgdad
+Pennsylvania
+22141
+656 221 6008
+449
+Bioengineering
+2.25
+NotApplying4Scholarship
+Kieran D. Ehrig
+345 North 0007 West
+San Diego
+Washington
+88714
+468 087 4444
+450
+English
+3.92
+NotApplying4Scholarship
+Payton D. Griffiths
+020 North 0558 South
+Los Angeles
+New Jersey
+74266
+564 281 0115
+451
+Social Work
+2.50
+Applying4Scholarship
+Narayn D. Davis
+867 West 6145 East
+Newtown
+Tennessee
+03575
+034 782 7404
+452
+Chemical Engineering
+3.16
+NotApplying4Scholarship
+Gerald J. Clark
+275 West 4102 South
+Eugene
+Maine
+27175
+604 113 5310
+453
+Marketing
+4.0
+NotApplying4Scholarship
+Akira P. Thom
+610 North 3250 South
+Springville
+Utah
+16313
+377 504 0508
+454
+Fine Arts
+1.78
+Applying4Scholarship
+Bryce G. Haskell
+0853 Wilson Ave.
+Salt Lake
+Louisiana
+37115
+477 007 8023
+455
+Theater
+0.63
+NotApplying4Scholarship
+James O. Goeree
+335 East 8303 East
+Dayton
+Florida
+41426
+775 283 1872
+456
+Chemical Engineering
+0.28
+NotApplying4Scholarship
+Sonny Y. Kell
+7536 Fortuna
+San Diego
+Florida
+36770
+717 434 7404
+457
+Chemistry
+2.64
+NotApplying4Scholarship
+Aimon I. Griffiths
+871 North 5571 East
+Richfield
+Illinois
+06174
+610 481 3157
+458
+Medicine
+0.16
+Applying4Scholarship
+Nico Y. Clinton
+6125 Herbert
+page
+Massachusetts
+81847
+168 280 8671
+459
+Aerospace Studies
+1.40
+NotApplying4Scholarship
+Ihaka T. Guthrie
+8815 Good One
+Dayton
+Vermont
+55284
+672 664 8756
+460
+Chemical Engineering
+3.20
+Applying4Scholarship
+Carrie L. Miyasaki
+014 East 8715 South
+Torry
+Alabama
+77767
+646 888 3335
+461
+Computer Science
+2.14
+NotApplying4Scholarship
+Girvan J. Helland
+780 East 4128 East
+Stafford
+Georgia
+68326
+067 058 3027
+462
+Civil Engineering
+0.24
+NotApplying4Scholarship
+Marcello X. Chi
+015 North 4450 North
+Pomona
+Missouri
+07146
+505 872 0456
+463
+Undeclared
+3.03
+NotApplying4Scholarship
+Philemon P. Campbell
+780 South 8734 West
+Moab
+Colorado
+77271
+240 074 1358
+464
+Fine Arts
+0.45
+Applying4Scholarship
+Bevin P. Farell
+8012 Lucky One
+Tacoma
+Colorado
+01425
+050 666 5416
+465
+Computer Engineering
+2.70
+NotApplying4Scholarship
+Mayer A. Myer
+106 North 5114 West
+Stuckyville
+Massachusetts
+14438
+313 105 3143
+466
+Sociology
+3.80
+NotApplying4Scholarship
+Zed W. Dimagio
+003 West 8322 East
+Southbury
+Hawaii
+12574
+542 007 6363
+467
+Math
+2.71
+Applying4Scholarship
+Adar D. Thompson
+087 West 4166 East
+Stamford
+Colorado
+14168
+765 148 4386
+468
+Law
+2.00
+NotApplying4Scholarship
+Haine V. Nelson
+340 North 2745 South
+Jolly
+Missouri
+47275
+576 786 4435
+469
+Medicine
+0.65
+Applying4Scholarship
+Igor H. Mansfield
+4878 Pensylvania
+St. Paul
+Oklahoma
+26257
+275 138 5347
+470
+Math
+3.67
+Applying4Scholarship
+Renato H. Bessette
+4681 Fortuna
+Seoul
+Florida
+61852
+361 288 7440
+471
+Nursing
+2.71
+NotApplying4Scholarship
+Eaton Y. Lepereu
+437 South 5170 East
+Wayne
+Georgia
+40855
+201 183 8608
+472
+Computer Science
+1.20
+Applying4Scholarship
+Fay V. Calichman
+1528 F st.
+Southbury
+California
+42781
+330 634 4072
+473
+Theater
+0.85
+NotApplying4Scholarship
+Manas E. Nelson
+662 South 1452 South
+Sacramento
+Rhode Island
+08071
+616 380 6727
+474
+Philosophy
+1.37
+Applying4Scholarship
+Zaine N. Amacost
+100 North 2102 East
+Seoul
+Rhode Island
+58650
+786 757 5716
+475
+Architecture
+1.28
+NotApplying4Scholarship
+Fidel Y. Monroe
+467 East 8831 East
+Sacramento
+North Dakota
+43153
+678 644 1633
+476
+Ballet
+0.32
+Applying4Scholarship
+Larry Z. Huang
+706 South 1315 West
+Boise
+Arizona
+06448
+172 618 5772
+477
+Medicine
+1.22
+NotApplying4Scholarship
+Venn C. Chamorel
+554 East 3534 West
+Glendale
+Alaska
+52581
+437 836 5108
+478
+Psychology
+0.54
+Applying4Scholarship
+Fabrice V. Robinson
+786 South 5231 North
+East Haven
+New Jersey
+10005
+522 654 5645
+479
+Philosophy
+1.10
+NotApplying4Scholarship
+Sharif C. Haley
+0088 Malus St.
+Garrison
+Wisconsin
+12146
+654 527 7868
+480
+Management
+3.46
+NotApplying4Scholarship
+Bakari H. Farell
+160 North 6813 West
+Bakersville
+Indiana
+37581
+357 668 0283
+481
+Architecture
+4.0
+NotApplying4Scholarship
+Ainsley G. BlackBurn
+531 North 4338 East
+Seattle
+Florida
+74808
+424 441 6731
+482
+Art
+3.67
+NotApplying4Scholarship
+Dai O. Griffiths
+6408 Nice One
+Monroe
+Ohio
+43540
+381 173 5383
+483
+Law
+2.28
+Applying4Scholarship
+Mani F. Griffiths
+628 North 5628 East
+Springville
+New York
+20111
+210 200 3068
+484
+English
+1.07
+Applying4Scholarship
+Etienne Q. Bessette
+1007 Malus St.
+Monroe
+Georgia
+75683
+638 705 3282
+485
+Economics
+1.16
+Applying4Scholarship
+Ian C. Black
+341 East 6353 North
+Moscow
+North Dakota
+55067
+147 651 2813
+486
+Business
+3.11
+NotApplying4Scholarship
+Tahir K. Camp
+277 North 6260 North
+Las Vegas
+Nevada
+10626
+861 557 4018
+487
+Art
+0.63
+Applying4Scholarship
+Jaron O. Riloff
+473 West 3582 South
+Southbury
+Utah
+67055
+216 764 4877
+488
+Nursing
+1.26
+Applying4Scholarship
+Bakari J. Bradley
+3825 Fortuna
+Seoul
+Texas
+14158
+565 457 7653
+489
+Chemical Engineering
+3.00
+Applying4Scholarship
+Ariel Y. Chorba
+108 South 7813 South
+Salt Lake
+Missouri
+52426
+067 806 6441
+490
+Physics
+0.73
+Applying4Scholarship
+Roshan A. Keil
+655 North 6340 West
+Stafford
+Louisiana
+63661
+320 184 6118
+491
+Computer Science
+3.50
+NotApplying4Scholarship
+Damas T. Brown
+571 South 1807 South
+Atlanta
+Maryland
+54566
+158 807 5723
+492
+Civil Engineering
+2.75
+NotApplying4Scholarship
+Waite D. Gross
+558 South 5505 East
+Atlanta
+Nebraska
+02787
+662 124 8847
+493
+Social Work
+1.16
+Applying4Scholarship
+Rafferty F. Campbell
+885 North 6862 East
+Pomona
+Rhode Island
+17538
+228 315 2511
+494
+Psychology
+0.52
+Applying4Scholarship
+Jodie T. Goodrich
+407 South 3680 North
+page
+North Dakota
+62746
+007 518 6886
+495
+Computer Engineering
+3.69
+Applying4Scholarship
+Scott Q. Helland
+426 East 4526 South
+Riverside
+Washington
+10760
+078 568 5242
+496
+Art
+2.92
+NotApplying4Scholarship
+Malachi S. Lindstrom
+446 West 5766 South
+Monroe
+Georgia
+21565
+483 514 4215
+497
+Chemistry
+0.49
+NotApplying4Scholarship
+Fidel C. Flatt
+340 North 2576 East
+St. Paul
+Georgia
+24670
+854 176 0188
+498
+Medicine
+1.86
+Applying4Scholarship
+Mahon R. Mansfield
+310 South 5373 North
+Torry
+Kentucky
+57425
+243 640 1140
+499
+Math
+4.0
+Applying4Scholarship
+Levin W. Zone
+670 North 4724 West
+Eugene
+Georgia
+42618
+556 546 3361
+500
+Social Work
+2.99
+NotApplying4Scholarship
+Philemon M. Nelson
+2021 Cornell
+Sherman
+Alaska
+30213
+702 451 0611
+501
+Theater
+3.78
+NotApplying4Scholarship
+Tierney D. Douville
+738 West 5807 North
+Los Angeles
+South Dakota
+25775
+650 518 0015
+502
+Management
+1.99
+Applying4Scholarship
+Tait U. Black
+067 East 8101 North
+Fresno
+Georgia
+60426
+402 453 5833
+503
+Business
+0.66
+Applying4Scholarship
+Todd S. Keil
+1515 Main St.
+Sandy
+Oregon
+25105
+703 763 7314
+504
+Geology
+2.90
+Applying4Scholarship
+Tobias X. Antecol
+5713 Malus St.
+Chicago
+Washington
+56147
+654 548 5584
+505
+Nursing
+1.47
+NotApplying4Scholarship
+Uriah O. Brown
+8064 Stanford
+Las Vegas
+Florida
+51038
+020 444 2331
+506
+Accounting
+0.27
+NotApplying4Scholarship
+Upton F. Featherstone
+005 East 5568 North
+Claremont
+Idaho
+82448
+042 456 2530
+507
+Bioengineering
+3.14
+Applying4Scholarship
+Daniel O. Zone
+824 West 5634 North
+Moscow
+Michigan
+02646
+372 877 7331
+508
+Anthropology
+1.67
+Applying4Scholarship
+Walter Y. O'malley
+810 South 1078 North
+Claremont
+North Dakota
+37738
+872 781 5781
+509
+Pharmacy
+0.99
+NotApplying4Scholarship
+Benedict D. Arndt
+716 West 2231 East
+Boise
+Louisiana
+21521
+671 882 4584
+510
+Law
+0.68
+NotApplying4Scholarship
+Giles O. Farell
+226 East 5853 East
+Stuckyville
+New Mexico
+18668
+571 676 7345
+511
+Philosophy
+3.94
+NotApplying4Scholarship
+Jay T. Chorba
+736 West 1342 South
+Portland
+South Carolina
+07314
+488 836 5067
+512
+Art
+1.56
+NotApplying4Scholarship
+Kyne D. Balitzer
+150 West 5785 South
+Stamford
+Indiana
+27178
+250 512 6136
+513
+Anthropology
+1.53
+NotApplying4Scholarship
+Arlo X. Appelbaum
+023 East 6274 North
+Riverside
+Montana
+17248
+860 528 1484
+514
+International Studies
+2.65
+NotApplying4Scholarship
+Zahir L. Miyasaki
+288 North 1576 South
+Stockton
+Kentucky
+08128
+614 687 5672
+515
+Pre-Dental
+0.52
+Applying4Scholarship
+Jett Y. Burdekin
+526 South 4322 West
+Stamford
+Louisiana
+83170
+852 562 0434
+516
+Mechanical Engineering
+3.33
+NotApplying4Scholarship
+Addison U. Hess
+166 South 1526 South
+Claremont
+West Virginia
+52333
+103 286 5575
+517
+Law
+2.49
+NotApplying4Scholarship
+Penny G. Featherstone
+862 South 4346 East
+Riverton
+Nevada
+75621
+010 026 4404
+518
+Mining Engineering
+2.53
+NotApplying4Scholarship
+Tom U. Bishop
+215 South 8020 South
+St. Paul
+Minnesota
+58787
+720 463 4388
+519
+Physics
+0.48
+NotApplying4Scholarship
+Jamal V. Busch
+233 South 3513 West
+Los Angeles
+Alaska
+46110
+372 367 2701
+520
+International Studies
+2.47
+Applying4Scholarship
+Jourdano V. Sampson
+204 South 5541 East
+Bountiful
+Delaware
+37345
+060 485 1611
+521
+Electrical Engineering
+1.95
+NotApplying4Scholarship
+Frayne Z. Guthrie
+7471 Broglie Blvd.
+Torry
+Virginia
+24618
+667 341 7442
+522
+Medicine
+2.86
+Applying4Scholarship
+Bobby N. Bessette
+7538 Loren Von Ave.
+Richfield
+Indiana
+55412
+414 015 0385
+523
+Economics
+0.75
+Applying4Scholarship
+Aimon H. Kell
+254 North 6268 West
+Springville
+Minnesota
+26748
+413 588 5250
+524
+Law
+0.50
+NotApplying4Scholarship
+Issac I. Miyasaki
+307 South 2042 West
+Seoul
+Massachusetts
+30234
+033 771 8186
+525
+Physics
+3.76
+Applying4Scholarship
+Fane E. Zone
+037 North 5185 North
+Chicago
+Maryland
+10228
+873 828 3171
+526
+Accounting
+2.79
+Applying4Scholarship
+Kane O. Bishop
+8424 Main St.
+Bahgdad
+Arkansas
+15464
+835 664 0307
+527
+Sociology
+2.63
+NotApplying4Scholarship
+Sven B. Arndt
+817 East 7810 North
+Los Angeles
+Nebraska
+61264
+165 024 7640
+528
+Geography
+2.42
+Applying4Scholarship
+Joachim X. Appelbaum
+641 West 7153 South
+Bountiful
+Hawaii
+43760
+700 717 6075
+529
+Family and Consumer Studies
+0.13
+NotApplying4Scholarship
+Shiloh T. Busch
+114 South 2470 West
+Stuckyville
+Hawaii
+34184
+188 772 5870
+530
+Linguistics
+3.87
+Applying4Scholarship
+Peter H. Nelson
+613 East 4672 North
+Florence
+Idaho
+51576
+867 306 8278
+531
+Architecture
+1.47
+Applying4Scholarship
+Joshua R. Kirkland
+434 North 2806 North
+Tacoma
+Connecticut
+81107
+433 717 4465
+532
+Law
+1.88
+Applying4Scholarship
+Acton A. Goss
+617 East 3406 East
+Bahgdad
+Mississippi
+56105
+468 277 1713
+533
+Management
+2.17
+Applying4Scholarship
+Theon J. Huang
+430 South 8480 East
+page
+Connecticut
+21360
+357 327 6118
+534
+History
+2.88
+NotApplying4Scholarship
+Kim U. Bessette
+706 South 8208 East
+Springville
+Nevada
+68256
+646 261 1713
+535
+Management
+0.80
+NotApplying4Scholarship
+Ann J. Black
+773 East 4847 North
+Springville
+Massachusetts
+00847
+332 644 4543
+536
+Computer Engineering
+0.21
+NotApplying4Scholarship
+Pearson R. Blomberg
+332 South 1066 West
+Philladelphia
+Tennessee
+81186
+863 788 7322
+537
+Psychology
+0.01
+NotApplying4Scholarship
+Mayer X. Thom
+553 South 2342 North
+Garrison
+Maine
+41121
+413 516 3360
+538
+Bioengineering
+2.03
+Applying4Scholarship
+Timothy G. Douville
+488 West 4213 South
+Eugene
+Louisiana
+68736
+248 231 5760
+539
+History
+2.84
+Applying4Scholarship
+Delmar E. Krauss
+107 East 7508 West
+Garrison
+Washington
+85735
+283 145 2608
+540
+Chemical Engineering
+3.92
+NotApplying4Scholarship
+Walter B. Antecol
+366 West 1783 South
+Moab
+Georgia
+03383
+157 808 7570
+541
+Business
+1.79
+NotApplying4Scholarship
+Hani O. Haley
+205 North 5526 East
+Newtown
+Oklahoma
+23256
+474 570 2342
+542
+Bioengineering
+2.57
+NotApplying4Scholarship
+Daley R. Woods
+3813 Broglie Blvd.
+Richfield
+Florida
+58163
+834 770 6116
+543
+Biochemistry
+3.82
+Applying4Scholarship
+Elan B. Eggett
+114 South 4422 East
+Pomona
+Wyoming
+12113
+020 183 5044
+544
+Math
+1.49
+Applying4Scholarship
+Cadell J. Haskell
+4188 Leibniz
+Fresno
+Delaware
+61603
+081 808 5147
+545
+Medicine
+1.72
+Applying4Scholarship
+Keenan A. Thompson
+114 South 2708 South
+Glendale
+Pennsylvania
+86713
+506 052 6834
+546
+Geology
+0.25
+NotApplying4Scholarship
+Ammon L. BlackBurn
+138 North 6557 West
+Seoul
+Connecticut
+33462
+735 163 0377
+547
+Theater
+2.00
+NotApplying4Scholarship
+Garek J. Chamorel
+522 East 0607 South
+Seoul
+Pennsylvania
+50315
+573 456 5136
+548
+International Studies
+3.22
+Applying4Scholarship
+Naaman E. Hanscom
+274 East 0857 West
+Los Angeles
+West Virginia
+54034
+748 587 6607
+549
+Family and Consumer Studies
+1.12
+Applying4Scholarship
+Cyrus S. Nelson
+250 East 0188 North
+Bakerfield
+Oklahoma
+54221
+446 188 7388
+550
+English
+0.33
+NotApplying4Scholarship
+Willard D. Affin
+8484 Young Oak
+Moscow
+North Carolina
+56171
+401 336 5384
+551
+Anthropology
+3.31
+NotApplying4Scholarship
+Zach N. Davis
+4478 Leibniz
+Boise
+North Dakota
+27526
+512 752 8402
+552
+Anthropology
+3.21
+NotApplying4Scholarship
+Shana I. Thom
+827 East 4460 East
+Stockton
+Texas
+25507
+472 218 7763
+553
+Management
+3.29
+Applying4Scholarship
+Hassan W. Haley
+454 East 4326 East
+Southbury
+California
+84814
+176 673 4637
+554
+Computer Engineering
+4.0
+Applying4Scholarship
+Farquhar H. Monroe
+831 West 1045 South
+Victoria
+New Mexico
+11020
+457 705 8261
+555
+Anthropology
+3.34
+NotApplying4Scholarship
+Penny F. Goeree
+478 West 4035 East
+Chicago
+Idaho
+86165
+103 441 8284
+556
+Computer Science
+0.35
+Applying4Scholarship
+Mary U. Chi
+0587 Loren Von Ave.
+Jolly
+Virginia
+68747
+767 430 3241
+557
+Social Work
+1.68
+Applying4Scholarship
+Travis E. Petersen
+7348 Main St.
+Florence
+Nevada
+01338
+228 568 1356
+558
+Management
+0.20
+Applying4Scholarship
+Venn G. Elliott
+481 North 7136 North
+Stockton
+Oklahoma
+36548
+846 386 8686
+559
+Architecture
+3.36
+Applying4Scholarship
+Varden V. Thompson
+153 North 6866 West
+Moab
+Arizona
+12535
+285 354 2515
+560
+Chemical Engineering
+2.90
+Applying4Scholarship
+Melor Y. Hahn
+073 East 7864 West
+Vancouver
+Kentucky
+73487
+385 206 5841
+561
+Geology
+1.96
+Applying4Scholarship
+Steede F. Keil
+534 East 1841 North
+St. Paul
+South Dakota
+21273
+415 261 5276
+562
+Linguistics
+3.68
+Applying4Scholarship
+Brock F. Lepereu
+050 East 6348 South
+Denver
+South Carolina
+01801
+076 355 4737
+563
+Special Education
+0.83
+Applying4Scholarship
+Scott W. Chase
+623 East 2730 North
+Denver
+Indiana
+13484
+624 711 3241
+564
+Management
+3.87
+NotApplying4Scholarship
+Mercer P. Busch
+034 East 6124 South
+Pomona
+Wyoming
+57748
+511 808 3334
+565
+Undeclared
+1.01
+NotApplying4Scholarship
+Caesar P. Hanscom
+800 West 1277 North
+Riverside
+Arkansas
+01341
+265 240 2686
+566
+Math
+1.13
+Applying4Scholarship
+Ramiro W. Appel
+251 West 0882 South
+Eugene
+Indiana
+66055
+182 550 0560
+567
+Sociology
+1.52
+NotApplying4Scholarship
+Chiron I. O'malley
+033 North 3526 South
+Stockton
+Wisconsin
+46116
+513 267 6847
+568
+Special Education
+3.89
+Applying4Scholarship
+Emil V. Bowman
+2047 Loren Von Ave.
+Claremont
+South Carolina
+62252
+265 337 1360
+569
+Undeclared
+2.66
+NotApplying4Scholarship
+Walter F. Egg
+808 East 3027 South
+Stuckyville
+Oklahoma
+63028
+287 055 8231
+570
+Geology
+3.66
+Applying4Scholarship
+Adir K. Kirkland
+151 North 2144 West
+Sherman
+Arizona
+68772
+284 330 6633
+571
+Bioengineering
+0.99
+Applying4Scholarship
+Ciro L. Zachary
+201 East 5083 North
+Bakerfield
+Pennsylvania
+10031
+111 337 3235
+572
+Computer Science
+1.15
+NotApplying4Scholarship
+Nur E. Riloff
+417 South 6720 South
+Las Vegas
+North Carolina
+08523
+104 405 0652
+573
+Law
+1.37
+NotApplying4Scholarship
+Jay O. Calichman
+1156 Monge Dr.
+Maryville
+New York
+33274
+607 513 2706
+574
+Civil Engineering
+1.17
+NotApplying4Scholarship
+Crispin L. Lee
+2780 Abel Dr.
+Victoria
+Maine
+64242
+551 542 6710
+575
+Fine Arts
+2.36
+Applying4Scholarship
+Back C. Lee
+156 South 2475 West
+Riverside
+Pennsylvania
+67865
+545 357 2265
+576
+Ballet
+1.51
+NotApplying4Scholarship
+Steven O. Dimagio
+186 West 2585 East
+Richfield
+Hawaii
+23645
+776 713 2848
+577
+Architecture
+3.36
+Applying4Scholarship
+Travis E. Blomberg
+362 West 8242 North
+Jackson
+Wyoming
+22776
+068 782 8154
+578
+Aerospace Studies
+0.03
+Applying4Scholarship
+Orton F. Appelbaum
+110 North 2813 South
+Bahgdad
+Maine
+33165
+463 213 3676
+579
+Asian Studies
+1.89
+NotApplying4Scholarship
+Fabian H. Burton
+106 South 1802 North
+Moab
+Missouri
+02003
+602 384 0308
+580
+Accounting
+1.85
+NotApplying4Scholarship
+Nadir F. Blomberg
+810 South 0878 South
+Maryville
+California
+58886
+150 640 3460
+581
+Mechanical Engineering
+0.40
+NotApplying4Scholarship
+Kinnard F. Goss
+1542 Young Oak
+Portland
+Oklahoma
+74526
+038 388 6601
+582
+History
+3.69
+NotApplying4Scholarship
+Daley J. Ashmiller
+678 North 2213 East
+Wayne
+Oklahoma
+36002
+226 266 7176
+583
+Mining Engineering
+2.02
+Applying4Scholarship
+Iden E. Ehrig
+451 South 3874 West
+Maryville
+Maryland
+56472
+227 318 7884
+584
+International Studies
+3.02
+NotApplying4Scholarship
+Damon A. Milton
+080 East 0356 South
+Monroe
+North Carolina
+04186
+168 064 5407
+585
+Medicine
+0.75
+NotApplying4Scholarship
+Lachlan U. Bradley
+550 North 1326 West
+Stamford
+North Dakota
+50462
+284 260 7287
+586
+Management
+2.51
+NotApplying4Scholarship
+Sandra D. Gilbert
+072 North 6635 East
+Dayton
+Delaware
+07624
+788 885 1781
+587
+Geology
+3.66
+NotApplying4Scholarship
+Ariel H. Ashmiller
+331 North 7565 North
+Bakerfield
+Wyoming
+68305
+013 385 1774
+588
+Family and Consumer Studies
+3.65
+Applying4Scholarship
+Barak D. Calichman
+6881 Lucky One
+Torry
+Missouri
+52765
+813 260 6077
+589
+Pre-Med
+2.37
+NotApplying4Scholarship
+Fabian D. Haley
+008 East 2524 East
+Bountiful
+Wyoming
+00043
+841 018 3086
+590
+Marketing
+1.30
+Applying4Scholarship
+Seth W. Gould
+776 East 6877 North
+Atlanta
+Wisconsin
+04557
+834 286 4156
+591
+Civil Engineering
+2.99
+NotApplying4Scholarship
+Nyall I. Amacost
+837 North 3544 West
+Eugene
+South Dakota
+61325
+156 321 7154
+592
+Math
+0.74
+NotApplying4Scholarship
+Vijay C. Zamin
+3177 Harvard
+Stamford
+Nebraska
+14620
+346 273 2828
+593
+Theater
+3.04
+Applying4Scholarship
+Sheehan T. Goeree
+576 South 3836 North
+Riverside
+Nebraska
+45165
+810 435 3510
+594
+Art
+2.91
+NotApplying4Scholarship
+Gerry U. Hanscom
+3810 Broglie Blvd.
+Fresno
+Michigan
+56577
+027 656 0835
+595
+Computer Engineering
+2.74
+Applying4Scholarship
+Sandor I. Gross
+432 West 0207 North
+Maryville
+Rhode Island
+45131
+685 372 2721
+596
+English
+0.75
+Applying4Scholarship
+Sage A. Trang
+342 West 2540 West
+Stamford
+Oklahoma
+02314
+724 832 2304
+597
+Ballet
+1.55
+Applying4Scholarship
+Jaleel R. Hahn
+021 South 1621 South
+Riverside
+Idaho
+83816
+244 822 6821
+598
+Aerospace Studies
+0.83
+NotApplying4Scholarship
+Lamont R. Ashmiller
+222 South 7373 South
+Moscow
+Louisiana
+24231
+545 151 5645
+599
+International Studies
+2.86
+NotApplying4Scholarship
+Akira D. Casad
+562 South 1145 West
+Vancouver
+Delaware
+10685
+076 482 3267
+600
+Accounting
+1.67
+Applying4Scholarship
+Delmar D. Guthrie
+502 East 4650 West
+Seoul
+Washington
+66375
+361 370 3560
+601
+Pre-Dental
+1.82
+Applying4Scholarship
+Reilly E. Thom
+523 South 5885 South
+Stamford
+Rhode Island
+22747
+802 233 4881
+602
+Chemistry
+3.06
+NotApplying4Scholarship
+Xavier S. Camp
+355 East 5715 East
+Southbury
+Ohio
+10567
+333 181 0658
+603
+History
+1.63
+Applying4Scholarship
+Annan H. Hanscom
+5742 Leibniz
+Richfield
+Mississippi
+72331
+340 115 8882
+604
+Asian Studies
+3.17
+Applying4Scholarship
+Swayne W. Hiskey
+2823 Harvard
+Richfield
+North Dakota
+37311
+216 278 5137
+605
+Architecture
+2.17
+NotApplying4Scholarship
+Darien V. Goodrich
+0708 Harvard
+St. Paul
+Vermont
+31702
+787 074 1056
+606
+Geography
+2.13
+Applying4Scholarship
+Caedmon Z. Dershem
+710 South 4780 South
+Newtown
+Nevada
+53484
+518 250 5138
+607
+Computer Science
+2.22
+NotApplying4Scholarship
+Rainer L. Blomberg
+1272 Wilson Ave.
+Newtown
+Arkansas
+81201
+728 776 8761
+608
+Philosophy
+0.17
+NotApplying4Scholarship
+Valentino T. Burton
+1766 Cornell
+Riverton
+Nebraska
+84727
+721 238 6077
+609
+Philosophy
+0.04
+Applying4Scholarship
+Ulrich L. Hiskey
+248 North 8354 West
+Vancouver
+New Jersey
+26645
+168 401 1358
+610
+Chemistry
+2.46
+NotApplying4Scholarship
+Tobias V. Calichman
+653 East 8565 East
+Springville
+Nevada
+41783
+633 101 2377
+611
+Nursing
+3.48
+Applying4Scholarship
+Sarah R. Lindstrom
+263 East 7541 North
+Andover
+Mississippi
+23225
+076 678 4641
+612
+Nursing
+2.82
+Applying4Scholarship
+Timon O. Lepereu
+7476 Pensylvania
+Jolly
+Arkansas
+45408
+835 854 0025
+613
+Geology
+2.92
+Applying4Scholarship
+Gerald Z. Eby
+666 West 8113 South
+Springville
+Pennsylvania
+24013
+838 645 7558
+614
+Sociology
+0.50
+Applying4Scholarship
+Emerson X. Adamson
+105 West 2076 West
+Claremont
+Missouri
+28081
+221 408 5875
+615
+Undeclared
+1.51
+Applying4Scholarship
+Bakari M. Ascher
+466 North 8807 South
+Wonderful
+Alabama
+01384
+086 881 1836
+616
+Ballet
+2.38
+Applying4Scholarship
+Cassidy C. Affin
+613 South 3468 North
+San Diego
+Colorado
+62166
+320 270 6344
+617
+Architecture
+1.85
+Applying4Scholarship
+Kasim W. Amacost
+774 West 8543 North
+Victoria
+Indiana
+08805
+324 737 4228
+618
+Behavior Science
+2.40
+Applying4Scholarship
+Pearce D. Aksoy
+675 East 3150 East
+Richfield
+Maryland
+50508
+831 626 6385
+619
+Education
+2.16
+Applying4Scholarship
+Urian N. Bowman
+2422 Wilson Ave.
+Riverside
+Indiana
+08223
+861 410 7732
+620
+Pre-Med
+0.25
+Applying4Scholarship
+Amadeus C. Mintz
+781 West 2803 North
+Atlanta
+New Hampshire
+02628
+030 135 8377
+621
+English
+4.0
+NotApplying4Scholarship
+Makani Y. Myer
+133 North 2487 West
+Bountiful
+Vermont
+15561
+840 257 2420
+622
+Accounting
+1.32
+NotApplying4Scholarship
+Patrick K. O'malley
+042 South 1003 West
+Los Angeles
+Kansas
+53768
+758 654 8413
+623
+Geography
+2.13
+NotApplying4Scholarship
+Midas M. Biltz
+623 West 1360 North
+Atlanta
+Utah
+78652
+567 862 1003
+624
+Mechanical Engineering
+3.66
+Applying4Scholarship
+Lorne I. Busch
+5802 Wilson Ave.
+Garrison
+Massachusetts
+81865
+103 754 2886
+625
+Family and Consumer Studies
+1.02
+Applying4Scholarship
+Eric B. Clark
+131 East 4188 West
+Chicago
+Texas
+72772
+312 227 0526
+626
+Art
+2.91
+NotApplying4Scholarship
+Ashlin S. Chamorel
+573 North 8037 South
+Dayton
+New Mexico
+56531
+420 582 8621
+627
+Bioengineering
+0.13
+NotApplying4Scholarship
+Rob Z. Casad
+301 East 1848 West
+Florence
+Texas
+20872
+888 378 0340
+628
+Geology
+1.60
+Applying4Scholarship
+Majorie D. Eggett
+2557 Wilson Ave.
+Bakerfield
+Mississippi
+53544
+753 144 2248
+629
+Linguistics
+0.35
+Applying4Scholarship
+Ainsley Z. Keil
+520 East 0601 North
+Riverside
+California
+65034
+132 250 6734
+630
+Anthropology
+0.51
+NotApplying4Scholarship
+Severn E. Aksoy
+288 East 3108 South
+Baker
+Nevada
+21872
+813 632 6304
+631
+Pre-Dental
+3.70
+NotApplying4Scholarship
+Qasim K. Eldregde
+637 North 3123 West
+Philladelphia
+Virginia
+66333
+335 482 5430
+632
+Theater
+1.78
+NotApplying4Scholarship
+Harry W. Robinson
+323 North 5708 East
+Las Vegas
+South Carolina
+42182
+440 664 4126
+633
+Communication
+0.49
+NotApplying4Scholarship
+Xylon F. Higdon
+338 East 2130 West
+Torry
+Utah
+64634
+077 138 1864
+634
+Management
+3.45
+NotApplying4Scholarship
+Reeve K. Lim
+083 East 0252 North
+page
+Missouri
+41526
+378 226 4734
+635
+Law
+0.53
+Applying4Scholarship
+Kieran R. Clark
+452 South 3543 South
+Claremont
+Pennsylvania
+28882
+503 542 4045
+636
+Ballet
+1.81
+NotApplying4Scholarship
+Rafe A. Kind
+683 West 7474 South
+Los Angeles
+Mississippi
+17011
+601 331 1056
+637
+Physics
+0.36
+NotApplying4Scholarship
+Edison P. Featherstone
+586 East 3751 North
+Victoria
+Connecticut
+24716
+526 388 1157
+638
+Psychology
+3.43
+NotApplying4Scholarship
+Frank O. Gilbert
+723 West 8144 North
+Sherman
+North Dakota
+22612
+864 867 3100
+639
+Medicine
+2.67
+Applying4Scholarship
+Ajani C. Balitzer
+803 East 8721 South
+Riverside
+South Carolina
+51540
+464 152 1435
+640
+Special Education
+2.82
+NotApplying4Scholarship
+Conan O. Egg
+210 West 0668 East
+Moab
+Missouri
+50880
+046 018 0566
+641
+Civil Engineering
+3.12
+Applying4Scholarship
+Igor J. Riloff
+484 South 4346 West
+Andover
+Missouri
+04147
+653 244 7375
+642
+Electrical Engineering
+2.76
+Applying4Scholarship
+Harlan N. Haskell
+465 North 8865 East
+Seoul
+New York
+81830
+740 816 0613
+643
+Geology
+1.53
+NotApplying4Scholarship
+Rafe P. Monroe
+201 West 5771 South
+Garrison
+Florida
+51017
+070 684 6024
+644
+Undeclared
+2.52
+Applying4Scholarship
+Sebastian D. Cody
+103 East 7260 North
+Dayton
+Ohio
+14207
+676 742 3283
+645
+Medicine
+2.92
+Applying4Scholarship
+Amy H. Cody
+475 North 8807 North
+Baker
+Maine
+64601
+850 758 0501
+646
+Sociology
+1.18
+NotApplying4Scholarship
+Corey U. Espinosa
+514 East 1881 North
+Tacoma
+Idaho
+46606
+272 140 2553
+647
+Architecture
+0.66
+Applying4Scholarship
+Sally U. Dimagio
+361 North 1048 East
+Atlanta
+Tennessee
+67815
+812 658 4544
+648
+Accounting
+3.84
+Applying4Scholarship
+Fariss L. Chang
+667 West 1828 West
+Los Angeles
+Kansas
+83014
+733 476 7575
+649
+Psychology
+1.68
+NotApplying4Scholarship
+Nico E. Ashmiller
+6005 Wilson Ave.
+Los Angeles
+New Mexico
+43121
+588 708 6032
+650
+Pharmacy
+0.26
+NotApplying4Scholarship
+Kay E. Nelson
+608 North 6643 East
+Stamford
+Indiana
+20528
+806 451 5745
+651
+Asian Studies
+2.91
+Applying4Scholarship
+Orton G. Davis
+186 North 3230 West
+Vancouver
+Mississippi
+11081
+778 718 3288
+652
+Nursing
+1.73
+NotApplying4Scholarship
+Steede P. Biltz
+1152 Wilson Ave.
+Stafford
+Virginia
+44714
+853 888 2554
+653
+Family and Consumer Studies
+1.53
+Applying4Scholarship
+Tremaine Y. Clark
+354 South 8713 South
+Bakersville
+Arkansas
+33264
+547 517 5078
+654
+Education
+1.38
+Applying4Scholarship
+Zamir E. Black
+425 West 4384 West
+Newtown
+North Dakota
+56210
+401 267 7063
+655
+Mining Engineering
+0.75
+Applying4Scholarship
+Camden X. Haley
+364 North 4456 South
+Los Angeles
+Wyoming
+22674
+531 887 7385
+656
+Linguistics
+2.28
+NotApplying4Scholarship
+Quilliam H. Burton
+675 East 4250 North
+Chicago
+Michigan
+12602
+572 374 2346
+657
+Chemistry
+1.02
+NotApplying4Scholarship
+James Z. BlackBurn
+314 East 2035 East
+Dayton
+Missouri
+73680
+360 851 1364
+658
+Geology
+2.98
+Applying4Scholarship
+William Z. Dimagio
+572 North 0177 East
+Richfield
+New Jersey
+52671
+650 312 4264
+659
+Philosophy
+2.02
+Applying4Scholarship
+Zaki Q. Busch
+063 West 3504 South
+Monroe
+Hawaii
+10651
+438 726 5254
+660
+Pharmacy
+2.75
+Applying4Scholarship
+Scott N. Candaele
+171 South 0015 West
+Portland
+Minnesota
+22480
+710 128 8213
+661
+Mechanical Engineering
+3.56
+Applying4Scholarship
+Payton O. Campbell
+584 North 0238 West
+Moab
+South Dakota
+81635
+623 271 2716
+662
+Medicine
+4.0
+NotApplying4Scholarship
+Cathan N. Higdon
+100 North 8273 North
+Runt
+Virginia
+26875
+228 634 8136
+663
+Theater
+3.86
+Applying4Scholarship
+Darby D. Miller
+315 South 6085 West
+Portland
+Louisiana
+88085
+077 736 8770
+664
+Aerospace Studies
+1.76
+Applying4Scholarship
+Cato X. Blomberg
+056 East 2562 West
+Jackson
+Louisiana
+10666
+445 040 6568
+665
+Physics
+0.94
+NotApplying4Scholarship
+Sheehan U. Hiskey
+1064 Broglie Blvd.
+Richfield
+Illinois
+14481
+830 358 2564
+666
+Marketing
+0.16
+Applying4Scholarship
+Cian D. Chang
+300 East 8101 East
+Jolly
+Michigan
+82185
+235 050 2448
+667
+Geology
+2.79
+NotApplying4Scholarship
+Severn V. Casad
+6331 Wilson Ave.
+Wayne
+Oregon
+55332
+835 188 1447
+668
+Math
+3.53
+Applying4Scholarship
+April X. Davis
+338 West 7270 South
+Jolly
+Vermont
+65383
+263 635 2200
+669
+Mechanical Engineering
+0.49
+Applying4Scholarship
+Lorenzo Z. Blomberg
+825 East 6233 East
+St. Paul
+Hawaii
+88050
+455 618 2087
+670
+Mechanical Engineering
+1.52
+NotApplying4Scholarship
+Sumner Q. Zamin
+707 East 6415 West
+East Haven
+North Carolina
+84768
+338 237 0645
+671
+Communication
+3.47
+NotApplying4Scholarship
+Kieran O. Fahim
+411 East 4800 North
+Jolly
+New York
+41533
+002 567 8411
+672
+Geography
+2.98
+Applying4Scholarship
+Sarah O. Eldregde
+167 East 3247 East
+Runt
+South Dakota
+21888
+143 122 3883
+673
+Computer Engineering
+1.06
+NotApplying4Scholarship
+Corey Q. Thom
+345 South 7037 West
+Tacoma
+Texas
+51342
+737 746 0824
+674
+Business
+1.22
+NotApplying4Scholarship
+Ellen G. Faggen
+621 West 1588 South
+Salt Lake
+South Carolina
+65472
+330 280 3076
+675
+Anthropology
+1.14
+NotApplying4Scholarship
+Edison P. Williams
+0447 Broglie Blvd.
+Torry
+New Mexico
+86182
+242 665 5348
+676
+Undeclared
+2.97
+Applying4Scholarship
+Killian H. Chase
+651 North 6688 East
+Glendale
+Kansas
+71230
+057 436 2050
+677
+Aerospace Studies
+2.78
+Applying4Scholarship
+Orton L. Ashmiller
+1271 F st.
+Wayne
+Missouri
+22327
+181 100 3362
+678
+Bioengineering
+0.08
+Applying4Scholarship
+Cristo C. Bradley
+2260 Good One
+Newtown
+Connecticut
+45881
+127 335 8136
+679
+Linguistics
+2.13
+Applying4Scholarship
+Ciro J. Lindstrom
+774 East 3284 North
+Stafford
+Massachusetts
+42402
+270 375 6623
+680
+Undeclared
+1.42
+NotApplying4Scholarship
+Peter T. Appel
+737 South 2340 West
+Vancouver
+Louisiana
+30121
+411 232 7085
+681
+Aerospace Studies
+2.65
+NotApplying4Scholarship
+Phineas U. Antecol
+4802 Fortuna
+St. Paul
+New Hampshire
+76453
+548 828 1267
+682
+Fine Arts
+0.75
+Applying4Scholarship
+Lars A. Bowman
+314 West 1602 North
+Fresno
+Nebraska
+61680
+202 706 1167
+683
+English
+2.84
+NotApplying4Scholarship
+Soren X. Zamin
+734 South 6840 South
+Riverside
+Louisiana
+15721
+535 025 5432
+684
+Behavior Science
+1.48
+Applying4Scholarship
+Gregg D. Milton
+1655 Herbert
+Salt Lake
+Delaware
+81862
+787 677 5526
+685
+Mining Engineering
+0.05
+Applying4Scholarship
+Lafayette J. Hanscom
+361 South 4451 South
+Stuckyville
+New Mexico
+55585
+004 055 4237
+686
+Economics
+0.37
+NotApplying4Scholarship
+Finn N. Bilger
+766 North 7445 North
+Claremont
+Georgia
+73351
+483 287 6105
+687
+Art
+3.22
+NotApplying4Scholarship
+Edward J. Keil
+0872 Kennedy
+Stuckyville
+Louisiana
+76253
+884 636 4668
+688
+Pre-Dental
+0.46
+NotApplying4Scholarship
+Diego F. Kell
+8320 Young Oak
+Stockton
+Illinois
+03772
+116 524 3201
+689
+Pre-Dental
+2.00
+NotApplying4Scholarship
+Jack A. Fucaloro
+208 South 4162 North
+Monroe
+Delaware
+25802
+277 578 8453
+690
+Chemistry
+2.57
+Applying4Scholarship
+Conan V. Mayfield
+084 North 8614 East
+Riverside
+Colorado
+22471
+274 257 5226
+691
+Mining Engineering
+1.19
+NotApplying4Scholarship
+Mercer C. Amacost
+723 North 2653 North
+Claremont
+Wyoming
+72788
+553 132 3316
+692
+Geography
+2.45
+NotApplying4Scholarship
+Cahil H. Appel
+773 East 4602 West
+Boise
+New Hampshire
+40502
+341 446 4418
+693
+Economics
+1.58
+NotApplying4Scholarship
+Royce N. Haskell
+2508 Kerry
+Philladelphia
+New Hampshire
+76355
+506 444 0351
+694
+Bioengineering
+3.22
+Applying4Scholarship
+Cadell B. Cody
+3614 Kennedy
+Salt Lake
+West Virginia
+27426
+566 352 1654
+695
+Music
+1.42
+NotApplying4Scholarship
+Haine Z. Cody
+781 South 6523 East
+Garrison
+New Hampshire
+78523
+866 443 8781
+696
+Asian Studies
+1.22
+NotApplying4Scholarship
+Caedmon R. Riloff
+0756 Wilson Ave.
+Fresno
+Texas
+30820
+430 870 6370
+697
+Architecture
+1.24
+NotApplying4Scholarship
+Venn Z. Blomberg
+746 North 5060 East
+Denver
+Illinois
+47841
+725 044 3322
+698
+Pharmacy
+0.59
+NotApplying4Scholarship
+Kito I. Chi
+352 West 3678 East
+Stuckyville
+Georgia
+17262
+088 811 1141
+699
+Pharmacy
+1.97
+Applying4Scholarship
+Haine D. Baduini
+0882 Monge Dr.
+Jackson
+New Hampshire
+77577
+048 732 3770
+700
+Pre-Med
+0.16
+NotApplying4Scholarship
+Soren V. Eby
+4100 Good One
+Monroe
+Oklahoma
+85076
+036 222 2470
+701
+Behavior Science
+1.35
+NotApplying4Scholarship
+Theon R. Peterson
+527 South 8280 South
+Wayne
+Washington
+12800
+403 535 1111
+702
+Geology
+0.83
+NotApplying4Scholarship
+Penny A. Edwards
+8068 Fortuna
+Glendale
+Michigan
+71320
+257 202 8841
+703
+Mechanical Engineering
+2.88
+Applying4Scholarship
+Malachi Y. Haley
+888 East 4723 North
+Springville
+Mississippi
+34321
+513 626 7164
+704
+Architecture
+3.94
+NotApplying4Scholarship
+Back Z. Chi
+7841 Broglie Blvd.
+Stafford
+Illinois
+84575
+673 884 5301
+705
+Social Work
+0.24
+NotApplying4Scholarship
+Yves S. Blackham
+8625 Buffon
+Monroe
+Arkansas
+88847
+026 002 6345
+706
+Architecture
+3.73
+Applying4Scholarship
+Cheryl E. Ehrig
+750 South 8620 West
+Monroe
+Kentucky
+64084
+664 452 3426
+707
+Chemical Engineering
+2.67
+NotApplying4Scholarship
+Reeve J. Sampson
+260 North 3661 North
+Wonderful
+Vermont
+22655
+463 221 3735
+708
+Special Education
+2.12
+NotApplying4Scholarship
+Gerald N. Brunvand
+128 South 4220 South
+Baker
+Maine
+57780
+761 104 8841
+709
+Geography
+2.84
+NotApplying4Scholarship
+Manaia Q. Arndt
+7700 Princeton
+Bakerfield
+Minnesota
+01344
+343 845 4170
+710
+Behavior Science
+3.35
+Applying4Scholarship
+Hanan G. Huang
+055 East 4445 West
+Runt
+Rhode Island
+15720
+106 315 4348
+711
+Pre-Med
+0.08
+Applying4Scholarship
+Naaman M. Baduini
+075 West 0502 West
+Salt Lake
+Pennsylvania
+68841
+610 364 4110
+712
+Mining Engineering
+2.21
+NotApplying4Scholarship
+Kim W. Brunvand
+802 South 5005 East
+Philladelphia
+Rhode Island
+43400
+682 741 4324
+713
+Philosophy
+2.66
+Applying4Scholarship
+Maria U. Lepereu
+621 West 7723 North
+Stuckyville
+Vermont
+71171
+134 200 5244
+714
+Family and Consumer Studies
+2.29
+Applying4Scholarship
+Joe A. Garris
+863 East 4145 South
+Monroe
+Missouri
+84276
+631 627 4305
+715
+Education
+1.22
+NotApplying4Scholarship
+Rafi W. BlackBurn
+425 North 1138 North
+Sacramento
+North Dakota
+07751
+321 841 4475
+716
+Anthropology
+1.59
+Applying4Scholarship
+Nancy H. Ashmiller
+4866 Monge Dr.
+Sherman
+Georgia
+30306
+437 413 3172
+717
+Law
+3.04
+NotApplying4Scholarship
+Mischa H. Clark
+3157 Nice One
+Denver
+Arkansas
+03054
+106 164 3256
+718
+Pre-Dental
+0.48
+NotApplying4Scholarship
+Dyami M. Sampson
+4514 De Vinci Ave.
+Pomona
+New York
+76638
+418 410 2222
+719
+Medicine
+2.52
+NotApplying4Scholarship
+Vidya O. Burton
+125 East 6052 North
+Atlanta
+Vermont
+45687
+762 833 5616
+720
+Business
+0.34
+NotApplying4Scholarship
+Delia Z. Robinson
+0675 Kennedy
+Florence
+Washington
+71626
+007 150 0483
+721
+Law
+0.62
+Applying4Scholarship
+Farhad K. Adolphson
+654 North 8267 West
+Sacramento
+Kentucky
+28627
+681 651 5763
+722
+Aerospace Studies
+3.16
+Applying4Scholarship
+Iden I. Robinson
+858 West 0857 South
+Seoul
+Washington
+26224
+773 434 5377
+723
+Biochemistry
+0.08
+Applying4Scholarship
+Mayer W. Goeree
+6312 Malus St.
+Stuckyville
+Florida
+18104
+044 073 5513
+724
+Mechanical Engineering
+0.29
+NotApplying4Scholarship
+Newton S. Keil
+441 North 8504 South
+Vancouver
+Hawaii
+57528
+763 570 6506
+725
+Accounting
+0.00
+NotApplying4Scholarship
+Bonny A. Campbell
+152 West 1835 East
+Sacramento
+South Dakota
+02410
+425 070 4350
+726
+Pre-Dental
+3.56
+NotApplying4Scholarship
+Chaim O. Lim
+560 South 2717 East
+San Diego
+Hawaii
+62238
+784 554 6585
+727
+Theater
+3.14
+NotApplying4Scholarship
+Diego Y. Adamson
+741 West 5023 West
+Stockton
+New York
+20813
+460 100 6510
+728
+Computer Engineering
+3.75
+NotApplying4Scholarship
+Majorie B. Bowman
+658 South 0617 West
+East Haven
+Ohio
+80808
+455 477 2150
+729
+Civil Engineering
+0.65
+NotApplying4Scholarship
+Urian W. Calichman
+6556 Kennedy
+Las Vegas
+New Hampshire
+55727
+367 778 7564
+730
+Accounting
+0.41
+NotApplying4Scholarship
+Ari F. Woods
+055 North 0850 South
+Pomona
+New Hampshire
+28067
+740 251 7868
+731
+Nursing
+3.85
+NotApplying4Scholarship
+Duarte I. Zone
+260 South 4877 North
+Richfield
+Illinois
+25282
+633 543 5241
+732
+Business
+0.97
+Applying4Scholarship
+Orion T. Goss
+2335 F st.
+Fresno
+Massachusetts
+28801
+207 436 0802
+733
+Undeclared
+3.02
+NotApplying4Scholarship
+Mario N. Aerus
+026 East 4227 North
+Southbury
+Texas
+46764
+182 780 5700
+734
+Philosophy
+3.33
+Applying4Scholarship
+Venn I. Bessette
+437 South 1084 West
+Philladelphia
+New Hampshire
+52134
+288 108 0886
+735
+Chemistry
+3.74
+Applying4Scholarship
+Acton P. Busch
+413 East 4840 East
+Portland
+Tennessee
+81144
+420 218 3828
+736
+Law
+3.92
+Applying4Scholarship
+Kersey K. Haskell
+337 East 6088 South
+Springville
+South Carolina
+34500
+606 505 3022
+737
+Math
+2.90
+Applying4Scholarship
+Adair L. Kind
+518 North 6730 North
+Vancouver
+Idaho
+03734
+320 365 4257
+738
+Philosophy
+2.68
+Applying4Scholarship
+Carey Y. Douville
+1510 Main St.
+Tacoma
+Georgia
+03315
+780 684 8214
+739
+Economics
+2.41
+Applying4Scholarship
+Kinsey N. Mayfield
+105 North 3177 South
+Sandy
+Mississippi
+66340
+723 784 4523
+740
+Law
+0.57
+Applying4Scholarship
+Kadir L. Affin
+013 North 3540 East
+Fresno
+New Jersey
+27285
+710 120 5370
+741
+Nursing
+2.00
+NotApplying4Scholarship
+Back B. Robinson
+842 North 0506 East
+Glendale
+Maryland
+10040
+747 535 5251
+742
+Medicine
+3.67
+NotApplying4Scholarship
+Cathan C. Davis
+155 South 5237 West
+Bountiful
+Kentucky
+80581
+080 818 6076
+743
+Social Work
+4.0
+NotApplying4Scholarship
+Arash J. Dimagio
+004 West 1846 West
+Moscow
+North Dakota
+80521
+805 067 1402
+744
+Communication
+2.52
+Applying4Scholarship
+Grady U. Adolphson
+588 West 2348 West
+Pomona
+Mississippi
+08186
+514 227 2851
+745
+Communication
+2.71
+Applying4Scholarship
+Vyasa K. Fucaloro
+023 South 7587 East
+Florence
+Rhode Island
+61837
+451 147 8568
+746
+Education
+3.74
+NotApplying4Scholarship
+Amal F. Ashmiller
+441 West 8362 North
+Chicago
+Connecticut
+35575
+316 841 5521
+747
+Biochemistry
+2.87
+Applying4Scholarship
+Gerald L. Haskell
+828 South 2034 East
+Bountiful
+Indiana
+27647
+286 472 8523
+748
+Social Work
+3.14
+Applying4Scholarship
+Madoc M. Krauss
+2803 Wilson Ave.
+Atlanta
+Oklahoma
+71320
+325 654 3125
+749
+Family and Consumer Studies
+1.11
+NotApplying4Scholarship
+Avan Q. Balitzer
+560 West 7785 South
+Los Angeles
+New Hampshire
+54752
+846 722 6421
+750
+Fine Arts
+1.34
+NotApplying4Scholarship
+Fay K. Affin
+123 East 7183 South
+Stuckyville
+Montana
+05742
+145 847 8062
+751
+Architecture
+3.89
+Applying4Scholarship
+Ennis R. Davis
+024 North 3364 South
+St. Paul
+Arizona
+13757
+550 375 3735
+752
+Asian Studies
+2.74
+Applying4Scholarship
+Wren B. Brunvand
+582 North 7764 South
+San Diego
+Washington
+81802
+773 272 1636
+753
+Pre-Med
+4.0
+Applying4Scholarship
+Rafferty Z. Lim
+3653 Kennedy
+Maryville
+Indiana
+28266
+508 563 1571
+754
+Special Education
+3.05
+NotApplying4Scholarship
+Evander X. Goss
+888 South 8751 South
+Moab
+New Hampshire
+78804
+854 162 5242
+755
+Physics
+0.40
+NotApplying4Scholarship
+Blaise L. Davis
+843 East 2444 North
+Las Vegas
+Texas
+15882
+622 870 6662
+756
+Business
+0.59
+NotApplying4Scholarship
+Emyr U. Peterson
+106 West 0275 East
+Torry
+Oklahoma
+32328
+027 766 8487
+757
+Linguistics
+3.12
+Applying4Scholarship
+Marius E. Douville
+675 West 4167 South
+Portland
+Colorado
+20252
+038 723 8174
+758
+Geography
+4.0
+Applying4Scholarship
+Roger Y. Chin
+7612 Fortuna
+Springville
+Virginia
+58145
+568 641 8382
+759
+Medicine
+0.41
+NotApplying4Scholarship
+Shana X. Miller
+533 West 6157 North
+Newtown
+Illinois
+63338
+177 854 6637
+760
+Communication
+1.05
+NotApplying4Scholarship
+Ian Z. Lepereu
+0311 Lucky One
+Claremont
+Wisconsin
+66237
+351 270 5743
+761
+Special Education
+1.27
+NotApplying4Scholarship
+Zaine O. Casad
+160 South 8773 North
+Moscow
+North Carolina
+27268
+766 637 0288
+762
+History
+3.91
+Applying4Scholarship
+Joshua Q. Smith
+368 South 2822 West
+Florence
+Iowa
+51745
+513 343 2380
+763
+Linguistics
+1.37
+NotApplying4Scholarship
+Dane K. Hiskey
+567 East 4887 West
+Philladelphia
+Kansas
+21815
+014 185 1401
+764
+Law
+2.50
+Applying4Scholarship
+Ammon Y. Zachary
+157 South 6423 East
+Jackson
+Hawaii
+20030
+382 372 0625
+765
+Economics
+2.42
+NotApplying4Scholarship
+Quillan N. Ehrig
+343 South 8177 North
+Seoul
+West Virginia
+67361
+555 848 6171
+766
+Accounting
+1.12
+Applying4Scholarship
+Flavien U. Goodrich
+705 South 0768 West
+Springville
+Virginia
+26603
+805 542 6231
+767
+Marketing
+3.86
+NotApplying4Scholarship
+Niall B. Flatt
+676 North 1500 West
+Seoul
+Oregon
+08808
+540 618 4786
+768
+Marketing
+3.21
+Applying4Scholarship
+Dyre C. Chamorel
+061 North 2222 West
+Monroe
+Ohio
+70483
+513 042 5682
+769
+Education
+3.81
+Applying4Scholarship
+Nur M. Griffiths
+526 North 3831 West
+Torry
+Kentucky
+44024
+485 083 0781
+770
+Management
+4.0
+NotApplying4Scholarship
+Oran H. Aerus
+4050 E St.
+St. Paul
+New York
+68822
+471 418 6167
+771
+Pre-Dental
+0.61
+NotApplying4Scholarship
+Carson M. Farell
+486 North 8558 West
+Atlanta
+Arizona
+45534
+471 540 5325
+772
+Economics
+3.57
+NotApplying4Scholarship
+Brady K. Higdon
+4188 Wilson Ave.
+Las Vegas
+New Hampshire
+67085
+838 238 2646
+773
+Ballet
+2.71
+NotApplying4Scholarship
+Finn A. Calichman
+6108 Cornell
+Andover
+South Carolina
+13131
+230 321 0114
+774
+Mechanical Engineering
+4.0
+Applying4Scholarship
+Haine T. Bilger
+480 East 1782 South
+Garrison
+Montana
+55735
+708 243 8658
+775
+Behavior Science
+3.65
+NotApplying4Scholarship
+Girvan Q. Smith
+7631 Nice One
+Baker
+Oregon
+34317
+035 378 1422
+776
+Psychology
+2.34
+NotApplying4Scholarship
+Vartan D. Arndt
+2127 Interesting One
+Tacoma
+Oklahoma
+86081
+177 638 7582
+777
+Aerospace Studies
+1.14
+Applying4Scholarship
+Qasim Z. Gilbert
+760 East 5550 East
+Philladelphia
+Mississippi
+02366
+517 818 0161
+778
+Civil Engineering
+1.56
+Applying4Scholarship
+Amon A. Monroe
+816 North 2668 West
+Salt Lake
+Alabama
+87487
+830 101 6604
+779
+Sociology
+2.25
+Applying4Scholarship
+Fidel E. Candaele
+8012 Loren Von Ave.
+Dayton
+West Virginia
+07515
+623 838 5642
+780
+Bioengineering
+2.35
+NotApplying4Scholarship
+Ari V. Antecol
+885 East 7767 North
+Richfield
+Iowa
+42228
+526 144 8414
+781
+Undeclared
+2.20
+Applying4Scholarship
+Kelan H. Hiskey
+170 North 3853 East
+Jolly
+Louisiana
+44852
+760 708 7834
+782
+Mining Engineering
+1.28
+NotApplying4Scholarship
+Lamar A. Zone
+6540 E St.
+Richfield
+North Dakota
+86506
+377 056 8101
+783
+Family and Consumer Studies
+3.30
+NotApplying4Scholarship
+Massimo Z. Casad
+408 East 8630 East
+Seoul
+Iowa
+08185
+613 145 0045
+784
+Theater
+0.17
+NotApplying4Scholarship
+Geary M. Lim
+050 South 0461 North
+Moscow
+Indiana
+10518
+211 640 4644
+785
+Special Education
+0.70
+NotApplying4Scholarship
+Jourdan J. Black
+677 North 4564 North
+Atlanta
+Indiana
+55644
+778 453 4705
+786
+Communication
+1.36
+NotApplying4Scholarship
+Nils H. Dershem
+831 West 7341 South
+Stockton
+Virginia
+61822
+330 252 4413
+787
+Chemical Engineering
+2.23
+NotApplying4Scholarship
+Fenn K. Chamorel
+558 South 5832 North
+Bakerfield
+North Dakota
+80142
+666 222 1624
+788
+Management
+4.0
+Applying4Scholarship
+Valles M. Balitzer
+464 East 4634 North
+Sherman
+Arkansas
+83142
+512 883 4645
+789
+Math
+3.09
+NotApplying4Scholarship
+Amon O. Kirkland
+505 West 3154 North
+Bountiful
+California
+10360
+166 042 7416
+790
+Economics
+3.76
+NotApplying4Scholarship
+Mayan O. Eby
+027 North 5568 East
+Bakerfield
+Missouri
+50366
+236 722 1630
+791
+Marketing
+0.21
+NotApplying4Scholarship
+Eli U. Cody
+222 North 1822 North
+Moscow
+New Mexico
+58115
+166 154 0513
+792
+Education
+0.66
+Applying4Scholarship
+Sacha C. Brown
+326 North 1664 North
+Stamford
+Alabama
+45212
+566 418 0433
+793
+Business
+2.72
+NotApplying4Scholarship
+Carrik H. Kind
+1117 Pensylvania
+Moscow
+Washington
+06652
+453 150 5604
+794
+Math
+2.56
+Applying4Scholarship
+Abir R. Garris
+408 East 8185 East
+Wayne
+Michigan
+35023
+203 167 4874
+795
+Mechanical Engineering
+3.46
+Applying4Scholarship
+Ryder D. Gilbert
+020 East 4720 East
+Moab
+Oklahoma
+82112
+364 170 1861
+796
+Asian Studies
+1.81
+Applying4Scholarship
+Nur K. Lim
+161 North 4847 West
+Bakerfield
+Ohio
+58130
+135 854 2117
+797
+International Studies
+0.46
+NotApplying4Scholarship
+Ari Q. Lee
+188 South 8046 East
+Southbury
+Wisconsin
+71461
+862 242 7384
+798
+Chemical Engineering
+3.46
+NotApplying4Scholarship
+Levin L. Busch
+456 North 1471 West
+Moscow
+Nevada
+36102
+006 671 7475
+799
+Aerospace Studies
+2.51
+Applying4Scholarship
+Eli M. Espinosa
+0065 Hubbard
+Sacramento
+Illinois
+88338
+441 105 3847
+800
+Special Education
+3.27
+NotApplying4Scholarship
+Sonny R. Ashmiller
+283 West 8758 West
+Bakersville
+Wyoming
+72014
+668 163 8578
+801
+Communication
+1.24
+NotApplying4Scholarship
+Rafferty C. Castro
+170 West 4474 South
+page
+Kentucky
+51002
+756 762 7283
+802
+Music
+3.36
+Applying4Scholarship
+Jacek A. Camp
+808 West 8578 East
+Seoul
+Pennsylvania
+50566
+623 388 6678
+803
+Accounting
+1.55
+NotApplying4Scholarship
+Graison T. Robinson
+418 West 8363 North
+Las Vegas
+South Carolina
+03780
+184 606 7761
+804
+Geography
+2.79
+Applying4Scholarship
+Adir U. Baduini
+801 North 2182 North
+Moscow
+West Virginia
+18083
+268 258 4364
+805
+Economics
+0.88
+NotApplying4Scholarship
+Manaia F. Eby
+716 South 7283 West
+Eugene
+North Dakota
+72217
+552 481 4388
+806
+Asian Studies
+3.08
+Applying4Scholarship
+Sven B. Egg
+060 West 8504 North
+Wonderful
+West Virginia
+73856
+781 874 0538
+807
+Pre-Dental
+1.47
+NotApplying4Scholarship
+Vaughn H. Cody
+160 East 6235 North
+Dayton
+New Mexico
+40272
+222 645 1836
+808
+Accounting
+2.72
+Applying4Scholarship
+Damas T. Griffiths
+077 North 1671 South
+Runt
+Kentucky
+53328
+267 043 0380
+809
+Undeclared
+0.62
+NotApplying4Scholarship
+Sharif B. Goodrich
+6231 Buffon
+Tacoma
+New York
+60746
+223 278 3045
+810
+Behavior Science
+2.22
+Applying4Scholarship
+Namir B. Robinson
+008 East 0124 West
+Salt Lake
+Kansas
+86608
+361 118 8030
+811
+Civil Engineering
+3.13
+Applying4Scholarship
+Arjuna X. Amacost
+342 South 7355 West
+Monroe
+Idaho
+58820
+545 863 4523
+812
+Nursing
+0.85
+Applying4Scholarship
+Charles Y. Monroe
+310 West 6851 West
+Vancouver
+North Carolina
+17824
+306 834 7204
+813
+Bioengineering
+0.05
+NotApplying4Scholarship
+Craig W. Bilger
+888 North 2067 West
+Boise
+South Carolina
+51482
+546 273 0530
+814
+Behavior Science
+2.02
+NotApplying4Scholarship
+Gaston O. Keil
+134 South 2138 South
+Newtown
+Arizona
+22645
+545 204 3437
+815
+Physics
+1.09
+NotApplying4Scholarship
+Gianni Y. Davis
+125 East 5475 North
+Andover
+Louisiana
+04208
+823 611 4361
+816
+Special Education
+0.49
+Applying4Scholarship
+Reeve G. Slind
+5574 Lucky One
+Las Vegas
+Wisconsin
+52703
+438 433 2678
+817
+Biochemistry
+1.10
+NotApplying4Scholarship
+Shannah O. Candaele
+3557 Abel Dr.
+Claremont
+Wyoming
+48546
+464 126 6111
+818
+Computer Engineering
+3.42
+NotApplying4Scholarship
+Lamont N. Goeree
+145 West 2454 North
+Eugene
+Kansas
+76276
+710 528 2378
+819
+Linguistics
+2.24
+Applying4Scholarship
+Craig E. Brunvand
+285 North 3777 East
+Stafford
+Alabama
+34267
+577 811 8652
+820
+Biochemistry
+3.23
+Applying4Scholarship
+Harper F. Lindstrom
+502 East 4176 North
+Bakerfield
+Montana
+20028
+457 878 0764
+821
+Mechanical Engineering
+2.24
+Applying4Scholarship
+Xylon R. Sampson
+110 South 2186 East
+Bountiful
+California
+76257
+842 446 5845
+822
+Communication
+4.0
+Applying4Scholarship
+Kimberly K. Affin
+652 West 4322 South
+San Diego
+West Virginia
+70125
+612 004 8033
+823
+Pre-Dental
+2.85
+Applying4Scholarship
+Carne L. Miller
+2208 F st.
+Torry
+Arizona
+65210
+184 104 3227
+824
+Electrical Engineering
+3.80
+Applying4Scholarship
+Conan T. Dershem
+042 North 8175 South
+Springville
+Florida
+87124
+678 624 5007
+825
+International Studies
+0.81
+NotApplying4Scholarship
+Gaston A. Slind
+420 East 8028 North
+Claremont
+Connecticut
+32032
+067 838 4121
+826
+Economics
+0.57
+NotApplying4Scholarship
+Hamlin U. Chorba
+575 North 6828 West
+Los Angeles
+New York
+70027
+365 715 5348
+827
+Communication
+0.23
+Applying4Scholarship
+Kieran O. Egg
+018 South 7210 South
+Sherman
+Maryland
+08365
+588 216 1044
+828
+Physics
+1.38
+NotApplying4Scholarship
+Haine I. BlackBurn
+7538 Jefferson St.
+Riverside
+Colorado
+54046
+402 714 5475
+829
+Architecture
+0.89
+NotApplying4Scholarship
+Upton T. Lim
+416 North 5037 South
+Sacramento
+Colorado
+63345
+756 814 7141
+830
+Psychology
+0.51
+Applying4Scholarship
+Theon D. Goodrich
+562 North 6542 North
+Andover
+Kentucky
+55602
+166 656 5888
+831
+Management
+0.85
+Applying4Scholarship
+Keane Q. Ehrig
+700 South 3738 West
+Portland
+New Mexico
+57042
+264 664 7464
+832
+Asian Studies
+0.06
+Applying4Scholarship
+Tanner L. Smith
+786 North 0256 West
+Las Vegas
+Nebraska
+65713
+886 605 8214
+833
+Bioengineering
+1.01
+Applying4Scholarship
+Lennox R. Mayfield
+648 West 5245 West
+Baker
+Virginia
+18103
+744 670 6877
+834
+Computer Science
+0.32
+Applying4Scholarship
+Fidel S. Black
+238 East 2038 South
+Florence
+Utah
+11667
+522 502 2638
+835
+Family and Consumer Studies
+1.14
+NotApplying4Scholarship
+Rohan D. Miller
+210 North 4682 South
+Portland
+Utah
+60565
+027 247 8583
+836
+Music
+1.40
+NotApplying4Scholarship
+Nasir K. Kim
+766 East 0603 West
+Florence
+South Dakota
+85786
+067 483 5682
+837
+Linguistics
+2.28
+Applying4Scholarship
+Emerson K. Slind
+850 North 3308 East
+St. Paul
+Nebraska
+26041
+653 426 7757
+838
+Aerospace Studies
+2.74
+NotApplying4Scholarship
+Christie J. Elliott
+727 West 8254 South
+Bahgdad
+Texas
+20488
+756 485 8411
+839
+Family and Consumer Studies
+1.57
+Applying4Scholarship
+Kinsey J. Blackham
+847 South 5816 West
+Claremont
+Minnesota
+08454
+322 236 5810
+840
+Math
+1.93
+NotApplying4Scholarship
+Lennon B. Flatt
+271 East 5525 West
+Bahgdad
+Ohio
+23603
+575 253 4546
+841
+Economics
+1.47
+Applying4Scholarship
+Mercer G. Krauss
+331 South 8740 East
+Runt
+Vermont
+71288
+767 505 1478
+842
+Theater
+1.38
+NotApplying4Scholarship
+Jervase N. Fahim
+0613 Herbert
+Fresno
+West Virginia
+70156
+857 272 4866
+843
+Law
+1.08
+Applying4Scholarship
+Roarke S. Adams
+3328 Wilson Ave.
+Las Vegas
+Alabama
+50348
+183 414 0042
+844
+Education
+1.34
+NotApplying4Scholarship
+Demas F. Thompson
+602 West 2785 East
+Stockton
+Illinois
+05547
+652 240 4455
+845
+Architecture
+3.04
+NotApplying4Scholarship
+Isaiah R. Adamson
+074 East 3751 West
+page
+Alabama
+03156
+415 306 3371
+846
+Management
+1.58
+Applying4Scholarship
+Jervase R. Sampson
+1003 Hubbard
+Wayne
+Massachusetts
+86236
+772 865 1667
+847
+Computer Engineering
+1.32
+NotApplying4Scholarship
+Quillan O. Fahim
+2287 Broglie Blvd.
+Bakerfield
+Maine
+75763
+656 338 7133
+848
+Asian Studies
+0.03
+NotApplying4Scholarship
+Blair T. Bessette
+452 West 7513 South
+Claremont
+Hawaii
+72347
+668 144 5607
+849
+Pharmacy
+1.02
+NotApplying4Scholarship
+Zaki R. Zone
+884 West 5342 North
+Boise
+Utah
+74618
+022 071 4145
+850
+Music
+2.11
+NotApplying4Scholarship
+Maksim B. Black
+1024 Harvard
+Moab
+Connecticut
+11657
+053 474 8726
+851
+Family and Consumer Studies
+2.52
+Applying4Scholarship
+Sebastian V. Kell
+264 South 2187 North
+Newtown
+Oregon
+23660
+007 761 1688
+852
+Fine Arts
+1.47
+NotApplying4Scholarship
+Tait H. Camp
+2103 Fortuna
+Tacoma
+Kansas
+78550
+865 756 2486
+853
+Marketing
+1.12
+NotApplying4Scholarship
+Killian A. Williams
+144 North 8258 East
+Stafford
+South Carolina
+10571
+623 324 3646
+854
+Chemistry
+1.26
+Applying4Scholarship
+Cole C. Miller
+1141 Fortuna
+Moab
+Connecticut
+43038
+652 660 8136
+855
+Medicine
+3.99
+Applying4Scholarship
+Roarke Y. Griffiths
+361 South 2737 South
+Dayton
+North Dakota
+30180
+521 811 4651
+856
+Fine Arts
+3.78
+NotApplying4Scholarship
+Jervase D. Chase
+518 West 1273 West
+Riverside
+South Carolina
+31350
+381 782 1053
+857
+Economics
+0.54
+NotApplying4Scholarship
+Igor Z. Mintz
+326 North 6184 North
+Wonderful
+Rhode Island
+72666
+680 830 1403
+858
+Bioengineering
+1.96
+NotApplying4Scholarship
+Parker K. Slind
+007 East 1305 West
+Stamford
+Florida
+50425
+266 214 6810
+859
+English
+1.18
+NotApplying4Scholarship
+Jael W. Riloff
+011 North 6823 North
+Wonderful
+South Carolina
+31527
+587 553 4227
+860
+Linguistics
+3.98
+Applying4Scholarship
+Mahon D. Chamorel
+2743 Herbert
+Sherman
+Massachusetts
+81285
+132 483 2258
+861
+Pre-Med
+0.15
+NotApplying4Scholarship
+Arden W. Gould
+213 West 4016 North
+Wonderful
+New York
+78405
+483 314 8628
+862
+Music
+3.90
+NotApplying4Scholarship
+Van E. Gould
+062 West 0156 East
+Seoul
+New Hampshire
+07704
+554 447 2042
+863
+Asian Studies
+1.37
+Applying4Scholarship
+Vartan I. Featherstone
+726 North 3627 South
+San Diego
+Mississippi
+10857
+002 425 2003
+864
+Education
+2.42
+Applying4Scholarship
+Grady J. Chi
+3538 Stanford
+Claremont
+Louisiana
+76171
+030 132 6113
+865
+Fine Arts
+3.63
+Applying4Scholarship
+Lal J. Ehrig
+814 East 0582 North
+Jackson
+Louisiana
+02833
+770 785 4465
+866
+Fine Arts
+0.26
+NotApplying4Scholarship
+Cahil U. Elliott
+837 East 6028 North
+Chicago
+Maryland
+21237
+211 702 3728
+867
+Economics
+1.68
+Applying4Scholarship
+Malise P. Garris
+211 South 0745 North
+Riverton
+Minnesota
+64884
+641 038 0832
+868
+Biochemistry
+1.59
+Applying4Scholarship
+Gabriel X. Williams
+004 North 0361 West
+Bakersville
+Alaska
+50038
+805 825 7816
+869
+Civil Engineering
+3.64
+NotApplying4Scholarship
+Ariel D. Monroe
+735 East 3813 South
+Bakersville
+Minnesota
+72272
+352 622 2136
+870
+History
+2.82
+Applying4Scholarship
+Bryce C. Burdekin
+7756 Main St.
+Seattle
+Georgia
+66665
+601 314 8435
+871
+Pharmacy
+4.0
+NotApplying4Scholarship
+Haley Z. Adams
+1466 Fortuna
+Bountiful
+New Jersey
+85086
+572 518 7237
+872
+Theater
+3.95
+Applying4Scholarship
+Ennis Y. Eby
+412 East 2501 South
+Seattle
+Alaska
+71113
+426 144 8555
+873
+Business
+0.20
+NotApplying4Scholarship
+Omar M. Woods
+835 West 8268 North
+Boise
+Florida
+41727
+677 030 5265
+874
+Management
+1.41
+NotApplying4Scholarship
+Pascal S. Higdon
+6478 Monge Dr.
+Sherman
+Hawaii
+71085
+258 507 7321
+875
+Geography
+3.23
+Applying4Scholarship
+Carey Q. Woods
+754 North 6175 West
+Riverside
+Texas
+43562
+418 842 7770
+876
+Special Education
+1.21
+Applying4Scholarship
+Jamal Q. Antecol
+216 East 3211 East
+Moscow
+Kansas
+03202
+568 506 8514
+877
+Biology
+0.64
+NotApplying4Scholarship
+Kersey V. Antecol
+0832 Broglie Blvd.
+Jolly
+Michigan
+58403
+183 648 3064
+878
+Computer Engineering
+1.24
+Applying4Scholarship
+Frank J. Lepereu
+7778 Monge Dr.
+Stockton
+North Dakota
+04541
+524 738 4333
+879
+Ballet
+2.66
+NotApplying4Scholarship
+Tahir H. Sampson
+216 East 8882 East
+Victoria
+Connecticut
+13472
+466 878 0570
+880
+Art
+3.77
+Applying4Scholarship
+Ravi L. Burton
+501 North 5026 South
+Boise
+Maine
+23373
+803 354 5383
+881
+Art
+2.76
+NotApplying4Scholarship
+Hassan O. Balitzer
+078 West 2473 South
+Los Angeles
+Montana
+64362
+420 471 4738
+882
+Geography
+1.35
+NotApplying4Scholarship
+Niran T. Elliott
+240 South 6114 South
+Monroe
+Kentucky
+85712
+711 632 2234
+883
+English
+0.48
+Applying4Scholarship
+Phoenix J. Lindstrom
+064 North 0174 North
+Garrison
+Wisconsin
+83272
+740 668 1274
+884
+International Studies
+0.90
+Applying4Scholarship
+Conn B. Clark
+114 East 4302 West
+Southbury
+Massachusetts
+06843
+027 530 6181
+885
+Law
+0.81
+NotApplying4Scholarship
+Hassan H. Flatt
+532 South 5068 North
+Riverton
+Vermont
+45033
+266 384 0143
+886
+Nursing
+3.04
+NotApplying4Scholarship
+Yeshe I. Milton
+577 North 5186 North
+Sherman
+California
+14526
+603 132 1451
+887
+Chemical Engineering
+0.63
+NotApplying4Scholarship
+Ryder S. Arndt
+463 North 7224 West
+Wonderful
+Ohio
+50051
+156 483 8277
+888
+Mechanical Engineering
+0.08
+NotApplying4Scholarship
+Ronan F. Woods
+005 North 8160 North
+Vancouver
+Illinois
+08126
+002 854 6216
+889
+Electrical Engineering
+1.49
+NotApplying4Scholarship
+Tarn P. Biltz
+557 West 1140 West
+Richfield
+Montana
+46558
+204 463 4813
+890
+Accounting
+2.22
+NotApplying4Scholarship
+Keenan D. Ascher
+427 East 0510 North
+Andover
+Oregon
+37603
+320 140 3123
+891
+Computer Engineering
+1.87
+NotApplying4Scholarship
+Fred A. Clinton
+338 South 5330 West
+Seoul
+New York
+05446
+505 662 5853
+892
+Pre-Med
+1.57
+Applying4Scholarship
+Varian Y. Faggen
+572 North 2013 North
+Salt Lake
+Illinois
+33006
+304 553 1562
+893
+Music
+2.46
+NotApplying4Scholarship
+Sabian V. Affin
+4564 Buffon
+Richfield
+Colorado
+88668
+074 175 1256
+894
+Electrical Engineering
+1.85
+NotApplying4Scholarship
+Gary M. Brunvand
+531 North 8516 East
+Fresno
+Nevada
+24063
+161 342 5241
+895
+Behavior Science
+2.91
+NotApplying4Scholarship
+Malik B. Calichman
+4326 Wilson Ave.
+Los Angeles
+Rhode Island
+18347
+366 338 1883
+896
+Music
+1.82
+Applying4Scholarship
+Israel U. Campbell
+383 South 6333 North
+Monroe
+Maine
+04764
+826 250 5232
+897
+Biology
+3.22
+NotApplying4Scholarship
+Blaine I. Kell
+827 West 1517 West
+Sandy
+Louisiana
+24775
+373 477 6061
+898
+Linguistics
+3.85
+Applying4Scholarship
+Conn D. Fucaloro
+115 South 5036 North
+page
+Vermont
+71632
+683 081 1441
+899
+International Studies
+2.13
+NotApplying4Scholarship
+Killian V. Monroe
+470 North 5175 East
+Bakersville
+Mississippi
+72052
+036 733 4086
+900
+Music
+3.02
+Applying4Scholarship
+Philemon R. Griffiths
+851 South 4608 North
+Bakerfield
+New Mexico
+51677
+835 057 8358
+901
+Psychology
+3.95
+Applying4Scholarship
+Brodie K. Riloff
+567 West 7883 West
+Florence
+Rhode Island
+37512
+681 066 5211
+902
+Mechanical Engineering
+2.27
+NotApplying4Scholarship
+Cristo M. Ascher
+827 North 6242 South
+St. Paul
+Maine
+56513
+310 424 1500
+903
+Computer Science
+2.03
+Applying4Scholarship
+Steede T. Appel
+453 North 1128 East
+Vancouver
+Louisiana
+42620
+430 230 5640
+904
+Physics
+0.46
+Applying4Scholarship
+Paul M. Busch
+130 East 0206 North
+Richfield
+Washington
+60277
+607 360 7421
+905
+Bioengineering
+0.34
+Applying4Scholarship
+Saxton D. Chi
+183 North 8053 East
+Newtown
+Maine
+67703
+785 881 2282
+906
+Anthropology
+2.98
+NotApplying4Scholarship
+Vitale A. Kim
+016 East 0020 North
+Andover
+New Mexico
+83436
+820 230 0654
+907
+Pharmacy
+1.23
+Applying4Scholarship
+Bryce X. Antecol
+566 South 5316 North
+Torry
+New Jersey
+53374
+126 062 8463
+908
+Sociology
+2.79
+Applying4Scholarship
+Carlin Q. Blackham
+321 North 7188 West
+Tacoma
+Nevada
+18753
+403 837 2850
+909
+Philosophy
+3.61
+Applying4Scholarship
+Sonny R. Woods
+145 West 0362 East
+Moab
+Mississippi
+30724
+853 740 0214
+910
+Law
+2.53
+Applying4Scholarship
+Remy L. Peterson
+232 West 4843 North
+Andover
+Nebraska
+18281
+821 604 4834
+911
+Marketing
+3.37
+Applying4Scholarship
+Garek R. Appelbaum
+8882 F st.
+Bahgdad
+Alabama
+08171
+673 383 7781
+912
+Family and Consumer Studies
+2.16
+Applying4Scholarship
+Vitale F. Hahn
+222 South 7267 West
+Seattle
+Michigan
+11432
+732 746 2030
+913
+Accounting
+3.93
+Applying4Scholarship
+Nellie A. Greth
+320 East 8450 South
+Victoria
+Montana
+43405
+582 436 2366
+914
+Nursing
+2.95
+Applying4Scholarship
+Nancy L. Trang
+786 North 4703 East
+Newtown
+New York
+23525
+615 145 4650
+915
+Bioengineering
+0.63
+NotApplying4Scholarship
+Saviero S. Appelbaum
+345 East 4861 South
+Newtown
+Missouri
+30666
+233 670 7284
+916
+Aerospace Studies
+3.59
+NotApplying4Scholarship
+Mario X. Goss
+574 East 5755 East
+Stockton
+Arizona
+31504
+657 345 8571
+917
+International Studies
+1.10
+NotApplying4Scholarship
+Mason Z. Ascher
+355 West 8750 West
+Seoul
+Vermont
+68522
+070 378 6085
+918
+Business
+3.83
+NotApplying4Scholarship
+Arlo Q. Amacost
+1107 Nice One
+Moab
+Vermont
+12578
+721 510 8880
+919
+Pre-Med
+0.80
+Applying4Scholarship
+Kareem L. Gould
+552 East 6436 West
+Torry
+Arkansas
+30741
+302 421 7530
+920
+Pre-Dental
+2.71
+NotApplying4Scholarship
+Varden A. Zone
+243 North 2414 East
+Salt Lake
+Washington
+16457
+027 183 6423
+921
+Geography
+3.26
+NotApplying4Scholarship
+Zach W. Jackson
+130 South 3124 North
+Sherman
+Michigan
+73044
+706 575 6380
+922
+Bioengineering
+3.15
+Applying4Scholarship
+Akira Z. Hahn
+7144 Nice One
+Victoria
+Vermont
+18531
+283 085 2834
+923
+Philosophy
+1.03
+NotApplying4Scholarship
+Zaki A. Espinosa
+0432 Kennedy
+Dayton
+Alaska
+12207
+785 422 3760
+924
+Geology
+1.05
+NotApplying4Scholarship
+Varick H. Dershem
+818 West 6618 North
+Jolly
+Washington
+24588
+307 327 0554
+925
+Social Work
+0.46
+Applying4Scholarship
+Amon P. Farell
+328 West 6056 North
+Sandy
+Pennsylvania
+88833
+466 664 8112
+926
+Management
+2.09
+Applying4Scholarship
+Sheehan Q. Calichman
+724 East 8126 East
+Glendale
+Michigan
+21707
+487 462 2855
+927
+Philosophy
+0.74
+NotApplying4Scholarship
+Dane D. Eby
+580 South 0343 West
+Wonderful
+Delaware
+04657
+557 427 3625
+928
+History
+3.41
+NotApplying4Scholarship
+Rainer Q. Featherstone
+321 East 7002 South
+Stuckyville
+New Hampshire
+71263
+677 322 3883
+929
+Math
+0.55
+Applying4Scholarship
+Andrea K. Nelson
+8246 F st.
+Bakerfield
+Oklahoma
+17664
+740 704 1132
+930
+Nursing
+0.60
+Applying4Scholarship
+Kasim C. Brunvand
+236 North 8241 West
+Pomona
+Wyoming
+83463
+200 173 1680
+931
+Sociology
+1.33
+NotApplying4Scholarship
+Tarquin X. Zachary
+057 West 2604 South
+Runt
+Vermont
+02143
+450 337 6540
+932
+Medicine
+1.42
+Applying4Scholarship
+Orton Y. Antecol
+0088 Leibniz
+Andover
+South Carolina
+28656
+671 534 4244
+933
+Pre-Dental
+0.44
+Applying4Scholarship
+Upton I. Miller
+254 West 7237 South
+Wayne
+Minnesota
+37364
+228 080 7687
+934
+English
+4.0
+Applying4Scholarship
+Israel Z. Miyasaki
+532 North 4083 West
+Stamford
+Kentucky
+24516
+356 812 2670
+935
+Philosophy
+0.12
+NotApplying4Scholarship
+Manaia Y. Faggen
+544 West 0604 South
+page
+Wisconsin
+24845
+418 734 0120
+936
+Chemical Engineering
+0.02
+NotApplying4Scholarship
+Sonny J. Ashmiller
+6212 Malus St.
+Wonderful
+Arkansas
+70882
+803 542 2258
+937
+Biology
+0.83
+NotApplying4Scholarship
+Kiran U. Blackham
+222 North 1607 East
+Sherman
+Colorado
+54021
+378 382 2366
+938
+Sociology
+3.08
+Applying4Scholarship
+Levin Q. Thompson
+408 West 7661 South
+Boise
+Alabama
+11656
+660 668 6382
+939
+Psychology
+3.49
+NotApplying4Scholarship
+Cadmus F. Douville
+362 East 2441 East
+Salt Lake
+Arkansas
+01065
+552 256 8228
+940
+Communication
+1.23
+NotApplying4Scholarship
+Remy A. Miyasaki
+130 South 4382 North
+Wayne
+Georgia
+32463
+705 108 2316
+941
+Economics
+1.99
+Applying4Scholarship
+Quinn D. Clinton
+368 West 4585 East
+Jolly
+Massachusetts
+57313
+726 207 6246
+942
+Family and Consumer Studies
+2.95
+NotApplying4Scholarship
+Kamal C. Lim
+0224 Main St.
+Denver
+Minnesota
+76251
+025 547 0211
+943
+Ballet
+3.66
+NotApplying4Scholarship
+Renato C. Zone
+840 North 7411 North
+Moab
+Colorado
+13708
+074 650 6385
+944
+Social Work
+2.16
+Applying4Scholarship
+Nico V. Arndt
+370 North 2535 North
+Stuckyville
+North Dakota
+63547
+313 155 6172
+945
+History
+3.27
+Applying4Scholarship
+Mahon I. Eldregde
+3032 Fortuna
+Bahgdad
+Indiana
+66664
+408 267 4681
+946
+Computer Engineering
+0.68
+Applying4Scholarship
+Ian F. Lepereu
+646 East 8171 North
+Stamford
+South Carolina
+04070
+705 606 0308
+947
+Theater
+0.93
+NotApplying4Scholarship
+Christie L. Lindstrom
+6535 Malus St.
+Torry
+Missouri
+42531
+506 520 2816
+948
+Physics
+3.52
+Applying4Scholarship
+Caspar G. Candaele
+368 East 6260 South
+Runt
+Wisconsin
+33248
+714 453 2072
+949
+Communication
+3.36
+NotApplying4Scholarship
+Cristo A. Fahim
+242 West 1350 South
+Monroe
+Florida
+56700
+260 810 5670
+950
+Philosophy
+1.56
+Applying4Scholarship
+Marlon Q. Baduini
+485 East 5240 North
+Andover
+South Carolina
+43068
+486 313 8068
+951
+Electrical Engineering
+4.0
+NotApplying4Scholarship
+Evander H. Fucaloro
+272 East 4750 East
+San Diego
+Nevada
+71857
+128 878 5244
+952
+Electrical Engineering
+0.06
+NotApplying4Scholarship
+Harper A. Griffiths
+2342 Kennedy
+Boise
+Wyoming
+48817
+482 201 4467
+953
+Civil Engineering
+1.77
+NotApplying4Scholarship
+Kathleen L. Lee
+474 North 6812 East
+Jolly
+Tennessee
+37448
+173 672 4112
+954
+Communication
+1.72
+NotApplying4Scholarship
+Corey C. Espinosa
+1881 Kerry
+Stuckyville
+Wyoming
+46740
+302 480 7452
+955
+Communication
+3.69
+NotApplying4Scholarship
+Minju I. Dershem
+648 North 6752 North
+Chicago
+Virginia
+43382
+576 707 3284
+956
+Computer Science
+1.26
+NotApplying4Scholarship
+Valentino H. Heerwald
+4468 Kerry
+Sandy
+Ohio
+26703
+834 273 5054
+957
+Nursing
+1.43
+NotApplying4Scholarship
+Matai L. Chang
+2662 Kerry
+Sherman
+Maryland
+42037
+001 840 5708
+958
+Medicine
+3.54
+Applying4Scholarship
+Camden X. Clinton
+100 South 4663 East
+Victoria
+Colorado
+18626
+603 162 8155
+959
+Computer Science
+3.54
+NotApplying4Scholarship
+Amir Z. Eldregde
+350 East 2445 North
+Atlanta
+Mississippi
+45017
+815 658 0336
+960
+Geology
+0.32
+Applying4Scholarship
+Blaise P. Castro
+756 East 6614 West
+Baker
+Iowa
+66178
+610 486 7864
+961
+Chemical Engineering
+1.88
+Applying4Scholarship
+Fred N. Myer
+838 South 2216 South
+Victoria
+North Dakota
+34167
+105 813 0264
+962
+Law
+1.47
+Applying4Scholarship
+Mercer L. Garris
+054 East 0544 North
+Sandy
+Nevada
+41632
+767 560 7001
+963
+Education
+3.74
+Applying4Scholarship
+Regan A. Featherstone
+718 West 2025 East
+Stafford
+New Hampshire
+12574
+251 048 6232
+964
+Geography
+2.03
+Applying4Scholarship
+Cavan V. Gross
+632 East 2315 West
+Boise
+Alabama
+50055
+865 431 0074
+965
+Mechanical Engineering
+3.30
+NotApplying4Scholarship
+Brock J. Monroe
+145 West 0824 South
+Stockton
+Nebraska
+77008
+241 183 2468
+966
+Mining Engineering
+3.24
+Applying4Scholarship
+Brodie C. Greth
+601 South 1586 East
+Wayne
+Louisiana
+88536
+256 510 5062
+967
+Marketing
+3.13
+NotApplying4Scholarship
+Ronan N. Aksoy
+734 North 3750 East
+Garrison
+Kansas
+45546
+401 252 6317
+968
+Medicine
+3.27
+Applying4Scholarship
+Kane E. Zamin
+858 East 3017 East
+Stafford
+Indiana
+36086
+235 168 2426
+969
+Linguistics
+3.22
+NotApplying4Scholarship
+Hasim C. Aksoy
+370 West 8200 West
+Riverside
+West Virginia
+06427
+258 878 4564
+970
+History
+2.78
+Applying4Scholarship
+Innes F. BlackBurn
+727 West 2788 South
+Dayton
+Pennsylvania
+48534
+514 585 2721
+971
+Nursing
+2.22
+NotApplying4Scholarship
+Khalil P. Huang
+3725 Monge Dr.
+Sherman
+Georgia
+34533
+323 321 5676
+972
+Chemistry
+3.82
+Applying4Scholarship
+Brock M. Kind
+508 East 4107 West
+Monroe
+Illinois
+47141
+602 374 6485
+973
+Education
+2.33
+NotApplying4Scholarship
+Audrey C. Robinson
+245 West 0577 West
+Seoul
+New Mexico
+23038
+306 254 2301
+974
+Marketing
+4.0
+Applying4Scholarship
+Sam L. Guthrie
+708 West 5100 South
+Wonderful
+Oregon
+42428
+345 382 6330
+975
+Behavior Science
+1.74
+NotApplying4Scholarship
+Dai Z. Guthrie
+585 South 3640 South
+Monroe
+Minnesota
+25080
+663 630 6421
+976
+Business
+0.55
+Applying4Scholarship
+Diane G. Kennedy
+708 North 7870 West
+Las Vegas
+North Carolina
+21887
+275 842 0430
+977
+Bioengineering
+0.00
+NotApplying4Scholarship
+Annan Q. Sampson
+640 North 2452 South
+Stafford
+Pennsylvania
+87615
+186 682 0068
+978
+Anthropology
+1.24
+NotApplying4Scholarship
+Sebastian G. Higdon
+237 East 6852 South
+Sacramento
+Montana
+62766
+715 801 6125
+979
+Asian Studies
+0.15
+Applying4Scholarship
+Quinn D. Ehrig
+650 North 2180 South
+Stafford
+New York
+12134
+333 500 3105
+980
+Chemistry
+1.04
+NotApplying4Scholarship
+Manu X. Helland
+402 South 8848 West
+Moab
+Kansas
+53701
+117 113 3077
+981
+Psychology
+0.05
+NotApplying4Scholarship
+Cathan G. Chorba
+161 North 4111 South
+Newtown
+Rhode Island
+43665
+648 263 8850
+982
+Computer Science
+3.97
+Applying4Scholarship
+Ultan A. O'malley
+4465 Hubbard
+Chicago
+Colorado
+78056
+551 667 1172
+983
+Behavior Science
+3.60
+NotApplying4Scholarship
+Diane K. Davis
+2083 Pensylvania
+Springville
+Oklahoma
+01034
+510 557 8206
+984
+Geography
+0.58
+NotApplying4Scholarship
+Audrey J. Amacost
+828 North 4177 North
+Wayne
+Iowa
+81285
+766 635 2245
+985
+Medicine
+2.43
+NotApplying4Scholarship
+Sheehan U. Myer
+104 North 8511 North
+Stafford
+Maine
+26682
+265 183 0725
+986
+Anthropology
+3.67
+Applying4Scholarship
+Israel V. Chin
+840 West 5371 West
+Monroe
+California
+16627
+700 650 6324
+987
+Music
+2.09
+Applying4Scholarship
+Gerry N. Bradley
+676 East 4724 East
+Bakersville
+Indiana
+51232
+244 865 0352
+988
+Accounting
+2.48
+Applying4Scholarship
+Lamont M. Kind
+812 South 3261 North
+Riverside
+Alaska
+10201
+214 872 4624
+989
+Art
+3.66
+NotApplying4Scholarship
+Severn N. Zone
+027 South 1377 South
+Richfield
+Florida
+11042
+415 542 4102
+990
+Architecture
+1.98
+Applying4Scholarship
+Kadir U. Arndt
+2600 Wilson Ave.
+Sherman
+Texas
+84568
+650 680 7532
+991
+English
+2.02
+Applying4Scholarship
+Carlin F. Arndt
+072 North 1318 North
+Los Angeles
+Virginia
+88456
+702 146 5008
+992
+Psychology
+4.0
+Applying4Scholarship
+Makis T. Eldregde
+500 North 0430 East
+Riverton
+Alaska
+84840
+561 122 4672
+993
+Pharmacy
+1.86
+NotApplying4Scholarship
+Torin G. Kell
+054 South 3401 South
+Dayton
+Alaska
+63335
+144 220 2315
+994
+Psychology
+0.39
+Applying4Scholarship
+Grechen C. Goodrich
+560 North 8831 West
+Tacoma
+Connecticut
+38728
+572 333 1331
+995
+Biochemistry
+0.66
+Applying4Scholarship
+Ali A. Mansfield
+142 North 1484 West
+Florence
+Colorado
+05317
+275 178 2377
+996
+Behavior Science
+3.11
+NotApplying4Scholarship
+Igor W. Antecol
+268 East 1831 East
+Tacoma
+Maine
+70716
+836 547 1355
+997
+Management
+0.08
+NotApplying4Scholarship
+Emyr E. Goss
+2631 Good One
+Dayton
+Missouri
+41624
+075 115 7505
+998
+Fine Arts
+2.38
+NotApplying4Scholarship
+Seth V. Bilger
+4714 Good One
+Stamford
+Washington
+48157
+835 280 7670
+999
+Geography
+1.56
+Applying4Scholarship
+Dyami I. Riloff
+545 West 6542 East
+Jolly
+Arkansas
+80723
+012 451 8575
+1000
+Computer Engineering
+2.39
+Applying4Scholarship
+Roarke C. Candaele
+7485 Lucky One
+Los Angeles
+Georgia
+06756
+761 671 6826
+1001
+Chemical Engineering
+0.73
+NotApplying4Scholarship
+Carrik E. Helland
+022 West 5757 West
+page
+Louisiana
+10353
+773 125 4455
+1002
+Physics
+2.14
+NotApplying4Scholarship
+Omar N. Elliott
+085 West 8281 South
+Sherman
+Michigan
+73441
+670 418 4617
+1003
+Nursing
+3.45
+NotApplying4Scholarship
+Walter V. Chin
+086 North 8533 East
+Monroe
+Maine
+28537
+212 432 2530
+1004
+Civil Engineering
+0.59
+Applying4Scholarship
+Marley I. Williams
+272 West 4568 West
+Maryville
+Maine
+62241
+134 432 0247
+1005
+Math
+1.80
+NotApplying4Scholarship
+Cy Y. Burton
+826 East 1024 West
+page
+North Dakota
+33273
+066 177 7347
+1006
+Pharmacy
+1.02
+NotApplying4Scholarship
+John L. Hahn
+602 North 7488 South
+Baker
+Georgia
+71427
+505 577 8404
+1007
+Aerospace Studies
+3.85
+Applying4Scholarship
+Rory Z. Ascher
+363 North 6455 East
+Moscow
+Rhode Island
+41724
+638 840 0721
+1008
+Aerospace Studies
+3.13
+Applying4Scholarship
+Iden H. Garris
+123 West 8023 East
+Portland
+North Dakota
+70233
+788 274 0381
+1009
+Computer Engineering
+0.68
+Applying4Scholarship
+Garek R. Douville
+373 East 8773 West
+Sherman
+Mississippi
+40714
+353 050 6732
+1010
+Psychology
+2.04
+Applying4Scholarship
+Nadir T. Antecol
+0284 Kerry
+Bahgdad
+Missouri
+27301
+867 374 5483
+1011
+Art
+2.46
+NotApplying4Scholarship
+Estes E. Antecol
+2460 Wilson Ave.
+Richfield
+Georgia
+11326
+621 242 7425
+1012
+International Studies
+3.97
+Applying4Scholarship
+Gene H. Camp
+804 West 0865 North
+Chicago
+Utah
+31803
+436 287 7253
+1013
+Biology
+3.06
+Applying4Scholarship
+Cheryl V. Chin
+884 North 6302 North
+Sandy
+Massachusetts
+08371
+445 502 8804
+1014
+Chemical Engineering
+1.59
+NotApplying4Scholarship
+Ammon K. Lindstrom
+0645 Cornell
+Eugene
+Virginia
+14522
+244 572 1307
+1015
+Accounting
+2.40
+NotApplying4Scholarship
+Roshan O. Lepereu
+752 East 2220 North
+Springville
+Texas
+30767
+222 212 1464
+1016
+Mining Engineering
+2.56
+NotApplying4Scholarship
+Blaise N. Goeree
+883 West 1303 South
+Moscow
+Arizona
+80254
+674 248 0806
+1017
+Geology
+1.66
+NotApplying4Scholarship
+Jaron K. Sampson
+620 North 3705 South
+Andover
+Pennsylvania
+03111
+220 743 2578
+1018
+Linguistics
+2.65
+NotApplying4Scholarship
+Amon K. Thompson
+243 East 4782 West
+Southbury
+South Carolina
+60664
+020 067 8056
+1019
+Special Education
+0.99
+Applying4Scholarship
+Giles A. Camp
+176 North 3170 South
+Moab
+Michigan
+70500
+151 612 3845
+1020
+Pre-Dental
+3.45
+NotApplying4Scholarship
+Cleary Q. Gross
+5316 Princeton
+Baker
+Ohio
+51105
+204 013 3238
+1021
+Law
+0.57
+NotApplying4Scholarship
+Darcy N. Mansfield
+7581 De Vinci Ave.
+Bakerfield
+South Carolina
+42161
+011 410 7407
+1022
+Art
+3.55
+Applying4Scholarship
+Malise D. Goss
+234 West 3247 East
+Jackson
+Missouri
+02342
+187 664 3402
+1023
+Pharmacy
+0.73
+Applying4Scholarship
+Sven S. Chi
+303 South 3032 South
+Sandy
+Idaho
+85267
+203 464 5473
+1024
+Music
+0.77
+Applying4Scholarship
+Rocco J. Williams
+647 South 8872 West
+Stafford
+Virginia
+11300
+778 152 8347
+1025
+Ballet
+0.18
+NotApplying4Scholarship
+Sol Y. BlackBurn
+5045 Kerry
+Andover
+New Jersey
+51431
+075 372 8086
+1026
+Anthropology
+1.85
+NotApplying4Scholarship
+Daley O. Slind
+774 South 6434 West
+Monroe
+Washington
+31144
+636 158 1753
+1027
+Computer Engineering
+1.19
+Applying4Scholarship
+Christie Y. Haley
+6034 Lucky One
+Sandy
+Maryland
+61034
+371 743 1254
+1028
+Behavior Science
+2.59
+NotApplying4Scholarship
+Lynn H. Amacost
+386 West 2516 North
+Victoria
+West Virginia
+58546
+150 738 4537
+1029
+Special Education
+1.20
+Applying4Scholarship
+Rob E. Elliott
+1048 Malus St.
+Maryville
+Nevada
+77273
+610 363 1186
+1030
+Undeclared
+4.0
+Applying4Scholarship
+Mayan C. Clark
+582 South 0666 West
+Moab
+Idaho
+75821
+813 762 8552
+1031
+Physics
+0.38
+NotApplying4Scholarship
+Sloane L. Helland
+450 East 3842 South
+Boise
+Alaska
+80530
+808 127 3864
+1032
+Asian Studies
+3.11
+NotApplying4Scholarship
+Massimo F. Calichman
+3211 De Vinci Ave.
+Richfield
+Illinois
+01061
+613 033 5647
+1033
+Undeclared
+2.94
+Applying4Scholarship
+Tobias P. Black
+521 West 3155 East
+Sandy
+New York
+23745
+818 217 3406
+1034
+Social Work
+2.86
+NotApplying4Scholarship
+Jaleel N. Chin
+764 South 8402 North
+Sandy
+Mississippi
+83765
+286 005 2861
+1035
+Chemical Engineering
+0.77
+Applying4Scholarship
+Dyre X. Chang
+800 East 5442 East
+St. Paul
+Connecticut
+23732
+760 202 8265
+1036
+Anthropology
+3.83
+NotApplying4Scholarship
+Scott W. Affin
+2733 Princeton
+Philladelphia
+Washington
+10410
+418 022 4275
+1037
+Social Work
+2.02
+NotApplying4Scholarship
+Richard U. Camp
+457 East 4783 South
+Boise
+Vermont
+27235
+032 218 6084
+1038
+Music
+3.99
+Applying4Scholarship
+Sebastian Z. Eby
+5861 Lucky One
+Stafford
+Colorado
+26617
+830 837 1633
+1039
+Physics
+0.02
+Applying4Scholarship
+Craig N. Kell
+167 East 3660 South
+Southbury
+Iowa
+71742
+322 787 3351
+1040
+Architecture
+1.01
+NotApplying4Scholarship
+Galen Y. Bilger
+101 East 7587 North
+Seoul
+Idaho
+46548
+372 311 2724
+1041
+Marketing
+2.46
+Applying4Scholarship
+Haven X. Bowman
+340 East 2812 North
+Stockton
+Wisconsin
+33472
+237 786 4736
+1042
+Undeclared
+2.99
+Applying4Scholarship
+Anthony E. Petersen
+237 North 4882 North
+Monroe
+Kansas
+25030
+380 070 5184
+1043
+Economics
+1.59
+NotApplying4Scholarship
+Vidya H. Adolfo
+271 North 6758 West
+Portland
+Missouri
+86333
+682 018 5212
+1044
+Chemistry
+1.35
+NotApplying4Scholarship
+Hanan D. Cody
+2576 Stanford
+Andover
+Illinois
+84052
+345 127 5345
+1045
+Asian Studies
+1.76
+Applying4Scholarship
+Duarte T. Davis
+0048 Wilson Ave.
+Stamford
+Connecticut
+40480
+001 381 0838
+1046
+Architecture
+0.45
+Applying4Scholarship
+Hasim I. Chamorel
+317 North 2677 North
+San Diego
+Alaska
+32174
+632 148 6155
+1047
+Social Work
+2.96
+NotApplying4Scholarship
+Richard C. Burdekin
+270 East 5744 South
+Sacramento
+Nebraska
+44635
+686 424 1750
+1048
+Accounting
+0.05
+NotApplying4Scholarship
+Malin Q. Brunvand
+563 East 5043 East
+Victoria
+Colorado
+15786
+046 432 3321
+1049
+International Studies
+2.10
+NotApplying4Scholarship
+Ramiro E. Sampson
+624 West 7473 South
+San Diego
+Montana
+47508
+513 741 3486
+1050
+Fine Arts
+0.19
+Applying4Scholarship
+Elan E. Bowman
+181 West 1608 South
+Sacramento
+Illinois
+71820
+656 876 5860
+1051
+Biology
+0.37
+NotApplying4Scholarship
+Chet N. Chang
+258 East 0655 North
+Monroe
+Oregon
+35800
+321 781 1161
+1052
+Architecture
+0.37
+NotApplying4Scholarship
+Fineas U. Dimagio
+783 East 1371 North
+Vancouver
+Iowa
+28415
+215 778 1676
+1053
+Philosophy
+2.36
+Applying4Scholarship
+Ciaran P. Edwards
+3625 De Vinci Ave.
+Bakerfield
+Georgia
+35640
+151 687 5421
+1054
+Nursing
+0.23
+Applying4Scholarship
+Chad H. Gould
+307 North 7247 West
+Stafford
+New Jersey
+67020
+723 677 8067
+1055
+Civil Engineering
+1.30
+Applying4Scholarship
+Pascal G. Kim
+8768 E St.
+Los Angeles
+Louisiana
+37281
+224 340 6774
+1056
+Nursing
+3.48
+NotApplying4Scholarship
+Timon V. Gilbert
+507 East 6310 East
+Moab
+Oregon
+67644
+206 422 3682
+1057
+Linguistics
+1.94
+Applying4Scholarship
+Malachi Q. Brunvand
+242 East 5312 East
+Boise
+Colorado
+64305
+747 425 1817
+1058
+Art
+0.91
+Applying4Scholarship
+Sam S. Camp
+548 West 3188 West
+Claremont
+Indiana
+54112
+711 108 1510
+1059
+Nursing
+3.82
+NotApplying4Scholarship
+Conan H. Ehrig
+363 East 6288 North
+Stamford
+Texas
+62601
+536 444 8746
+1060
+Civil Engineering
+3.05
+Applying4Scholarship
+Vaughn I. Goodrich
+718 South 2500 South
+Baker
+Delaware
+41248
+602 030 3025
+1061
+Family and Consumer Studies
+1.44
+NotApplying4Scholarship
+Cyrus O. Mayfield
+236 North 6412 South
+page
+Nevada
+57401
+165 088 1063
+1062
+Computer Engineering
+1.66
+Applying4Scholarship
+Lorne H. Kirkland
+345 West 8232 South
+Pomona
+Louisiana
+47375
+557 233 8046
+1063
+Pharmacy
+0.63
+Applying4Scholarship
+Gregg V. Eby
+7451 F st.
+Sacramento
+Illinois
+34161
+015 253 8140
+1064
+Philosophy
+3.59
+Applying4Scholarship
+Rocco D. Camp
+665 South 1320 North
+Bakersville
+New Jersey
+55367
+031 614 1054
+1065
+Computer Engineering
+1.04
+Applying4Scholarship
+Xylon Z. Featherstone
+841 West 0000 East
+Florence
+Rhode Island
+67446
+355 764 2656
+1066
+Medicine
+3.24
+NotApplying4Scholarship
+Roger R. Kerry
+136 East 7680 West
+Bountiful
+South Dakota
+22071
+534 658 1507
+1067
+Family and Consumer Studies
+2.68
+NotApplying4Scholarship
+Hilary V. Slind
+6082 Kennedy
+Glendale
+Nebraska
+75033
+668 342 1865
+1068
+Behavior Science
+2.37
+NotApplying4Scholarship
+Saxton J. Blomberg
+153 West 4301 West
+Eugene
+New Mexico
+71057
+027 387 8052
+1069
+Theater
+1.48
+Applying4Scholarship
+Swayne O. Hanscom
+1007 Princeton
+Sherman
+Pennsylvania
+44845
+006 687 3552
+1070
+Philosophy
+2.66
+NotApplying4Scholarship
+Chad V. Bishop
+268 North 4286 South
+Portland
+New Hampshire
+58604
+303 273 7435
+1071
+Architecture
+1.24
+Applying4Scholarship
+Rafe C. Candaele
+305 East 0165 North
+Claremont
+Oregon
+45252
+241 721 5436
+1072
+Psychology
+2.42
+Applying4Scholarship
+Kadir Y. Adams
+207 West 3853 East
+Baker
+Hawaii
+81351
+346 187 1455
+1073
+Accounting
+1.35
+Applying4Scholarship
+Saul U. Smith
+100 East 7014 West
+Philladelphia
+Oregon
+48658
+337 868 4328
+1074
+Undeclared
+2.41
+Applying4Scholarship
+Cathan A. Black
+868 East 5660 West
+Dayton
+New Mexico
+62424
+353 184 6451
+1075
+Undeclared
+0.91
+NotApplying4Scholarship
+Ives W. Hanscom
+388 North 0727 East
+Tacoma
+Arizona
+32645
+327 342 3086
+1076
+Civil Engineering
+0.03
+NotApplying4Scholarship
+Harry N. Heerwald
+203 East 7626 South
+Bahgdad
+Hawaii
+40473
+073 360 8244
+1077
+Mining Engineering
+2.26
+Applying4Scholarship
+Kyne E. Busch
+7463 Kennedy
+San Diego
+Alaska
+82301
+435 237 3215
+1078
+Sociology
+0.12
+Applying4Scholarship
+Lars Z. Appelbaum
+754 West 8571 East
+page
+Illinois
+04738
+554 126 3752
+1079
+Bioengineering
+1.81
+NotApplying4Scholarship
+Mani Y. Miyasaki
+022 West 2763 North
+Eugene
+Virginia
+00106
+160 801 5158
+1080
+Family and Consumer Studies
+1.42
+NotApplying4Scholarship
+Robert G. Zamin
+417 South 7787 North
+Moab
+Pennsylvania
+57684
+445 604 5558
+1081
+Geography
+1.75
+Applying4Scholarship
+Hanan M. Dershem
+700 West 2320 South
+Fresno
+New Hampshire
+02342
+886 041 8170
+1082
+History
+1.90
+Applying4Scholarship
+Dyre S. Candaele
+530 West 6488 West
+Philladelphia
+Minnesota
+85133
+466 735 5737
+1083
+Asian Studies
+1.59
+Applying4Scholarship
+Leif E. Campbell
+315 North 5678 South
+Seoul
+Tennessee
+61542
+763 688 7208
+1084
+Ballet
+2.02
+NotApplying4Scholarship
+Amir H. Brown
+785 North 8834 South
+Stafford
+Colorado
+56122
+853 300 5675
+1085
+Social Work
+0.80
+NotApplying4Scholarship
+Rainer S. Eggett
+716 South 8614 West
+San Diego
+Washington
+83583
+712 368 6686
+1086
+Economics
+3.81
+Applying4Scholarship
+Jourdan F. Haley
+414 North 0115 South
+Monroe
+Florida
+38157
+543 071 3561
+1087
+Sociology
+1.95
+Applying4Scholarship
+Pascal Q. Affin
+051 West 0403 North
+Wonderful
+Oregon
+32278
+164 446 7177
+1088
+Family and Consumer Studies
+1.61
+NotApplying4Scholarship
+Swayne D. Keil
+484 West 8508 West
+Riverside
+Nevada
+65121
+314 324 6287
+1089
+Civil Engineering
+0.56
+Applying4Scholarship
+Majorie M. Higdon
+684 West 8518 South
+Garrison
+Texas
+42375
+061 261 3047
+1090
+Undeclared
+2.11
+Applying4Scholarship
+Minju O. Burton
+2456 Kennedy
+Los Angeles
+New York
+62682
+241 774 8432
+1091
+Civil Engineering
+1.38
+NotApplying4Scholarship
+Thane U. Gould
+7807 Fortuna
+Sherman
+Florida
+34451
+753 061 1588
+1092
+Fine Arts
+1.13
+NotApplying4Scholarship
+Saxton D. Blomberg
+101 North 4012 West
+Jolly
+Indiana
+53802
+628 103 8117
+1093
+Behavior Science
+3.54
+Applying4Scholarship
+Vijay H. Flatt
+661 North 3828 East
+San Diego
+Illinois
+72483
+406 088 2330
+1094
+English
+3.84
+Applying4Scholarship
+Tierney S. Helland
+347 West 7755 South
+Stafford
+Nebraska
+85761
+038 544 2276
+1095
+Computer Science
+1.87
+NotApplying4Scholarship
+Jennifer W. Zamin
+6822 Kennedy
+Southbury
+Kansas
+73643
+154 434 1136
+1096
+English
+3.85
+NotApplying4Scholarship
+Malachi P. Appel
+8417 Princeton
+Jackson
+Idaho
+41436
+611 774 8326
+1097
+Linguistics
+0.99
+NotApplying4Scholarship
+Acelin P. Greth
+6443 Good One
+Stafford
+Connecticut
+13224
+875 137 8726
+1098
+Physics
+0.17
+NotApplying4Scholarship
+Mani N. Dershem
+0345 Kerry
+Moab
+New Jersey
+37882
+721 062 7545
+1099
+Management
+2.06
+Applying4Scholarship
